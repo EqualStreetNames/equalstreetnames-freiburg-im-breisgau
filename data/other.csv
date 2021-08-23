@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Adelhauser Straße",wikidata,,Q1774921,way
+Agnesenstraße,wikidata,,Q28976917,way
 Alemannensteige,wikidata,,Q132990,way
 Alemannenstraße,wikidata,,Q132990,way
 "Am Flughafen",wikidata,,Q1312244,way
@@ -23,6 +24,8 @@ Belfortstraße,wikidata,,Q472982,way
 Bergleweg,wikidata,,Q1870290,way
 "Berliner Allee",wikidata,,Q64,way
 Bernlappstraße,wikidata,,Q267955,way
+Besançonallee,wikidata,,Q37776,way
+Bienenweg,wikidata,,Q7391,way
 Blauenstraße,wikidata,,Q25630,way
 Bohlstraße,wikidata,,Q174574,way
 "Bozener Straße",wikidata,,Q6526,way
@@ -34,9 +37,13 @@ Burghaldering,wikidata,,Q139420,way
 "Burgunder Straße",wikidata,,Q1767171,way
 Bussardweg,wikidata,,Q235152,way
 "Colmarer Straße",wikidata,,Q130994,way
+Drei-Ähren-Straße,wikidata,,Q3539923,way
 Dreisamstraße,wikidata,,Q515480,way
+"Ebneter Straße",wikidata,,Q1279951,way
 "Ebringer Weg",wikidata,,Q527868,way
+"Eichstetter Straße",wikidata,,Q606787,way
 Einsiedelnweg,wikidata,,Q693087,way
+"Elsässer Straße",wikidata,,Q1142,way
 "Emmendinger Straße",wikidata,,Q494521,way
 "Endinger Straße",wikidata,,Q168511,way
 "Ensisheimer Straße",wikidata,,Q455645,way
@@ -48,7 +55,6 @@ Feldbergstraße,wikidata,,Q316401,way
 Finkenschlag,wikidata,,Q160835,way
 Flaunserstraße,wikidata,,Q31546886,way
 Frankenweg,wikidata,,Q43482,way
-"Freiburger Weg",wikidata,,Q2833,way
 Friedhofstraße,wikidata,,Q991436,way
 Friesenstraße,wikidata,,Q106416,way
 Fürstenbergstraße,wikidata,,Q681590,way
@@ -69,6 +75,8 @@ Hochmeisterstraße,wikidata,,Q9373006,way
 Hohenzollernstraße,wikidata,,Q83969,way
 Höllentalstraße,wikidata,,Q301685,way
 "Horbener Straße",wikidata,,Q515988,way
+"Hügelheimer Weg",wikidata,,Q43363641,way
+"Hugstetter Straße",wikidata,,Q557757,way
 "Im Falkenhof",wikidata,,Q26490,way
 "Innsbrucker Straße",wikidata,,Q1735,way
 Johanneskirchplatz,wikidata,,Q2319056,relation+way
@@ -76,12 +84,14 @@ Käferweg,wikidata,,Q22671,way
 Kaiserstuhlstraße,wikidata,,Q701516,way
 Kandelstraße,wikidata,,Q314746,way
 "Kappler Straße",wikidata,,Q1728696,way
+"Karlsruher Straße",wikidata,,Q1040,way
 "Kärntner Weg",wikidata,,Q37985,way
 Kartäuserstraße,wikidata,,Q183313,way
 Kaufhausgässle,wikidata,,Q1520195,way
 "Kehler Straße",wikidata,,Q15979,way
 Keltenstraße,wikidata,,Q35966,way
 Kirchstraße,wikidata,,Q2317915,way
+Kirchweg,wikidata,,Q64135789,way
 "Kirchzartener Straße",wikidata,,Q528089,way
 Konviktstraße,wikidata,,Q1109185,way
 Kreuzkopfsteige,wikidata,,Q31560408,way
@@ -103,6 +113,7 @@ Matthiasweg,wikidata,,Q82296647,way
 "Merzhauser Straße",wikidata,,Q632798,way
 Moosgrund,wikidata,,Q62069032,way
 Mooswaldallee,wikidata,,Q62069032,way
+"Mülhauser Straße",wikidata,,Q79815,way
 "Müllheimer Straße",wikidata,,Q505468,way
 "Mundenhofer Straße",wikidata,,Q1725395,way
 Münsterplatz,wikidata,,Q250212,relation+way
@@ -110,7 +121,10 @@ Münsterstraße,wikidata,,Q250212,way
 "Munzinger Straße",wikidata,,Q259852,way
 Nordstraße,wikidata,,Q659,way
 "Oberrieder Straße",wikidata,,Q557698,way
+"Offenburger Straße",wikidata,,Q4044,way
 "Opfinger Straße",wikidata,,Q885089,way
+Paduaallee,wikidata,,Q617,way
+Pochgasse,wikidata,,Q364000,way
 Quäkerstraße,wikidata,,Q170208,way
 "Rastatter Straße",wikidata,,Q6874,way
 Rathausplatz,wikidata,,Q2132439,relation+way
@@ -123,10 +137,12 @@ Rotdornweg,wikidata,,Q1281102,way
 "Rufacher Straße",wikidata,,Q149087,way
 Sachsenstraße,wikidata,,Q101985,way
 "Salzburger Weg",wikidata,,Q34713,way
+Sandfangweg,wikidata,,Q358853,way
 Sandstraße,wikidata,,Q34679,way
 Schlehenrain,wikidata,,Q129018,way
 Schlesierstraße,wikidata,,Q81720,way
 "Schlettstadter Straße",wikidata,,Q22737,way
+Schlossbergring,wikidata,,Q277106,way
 Schneeburgstraße,wikidata,,Q880182,way
 Schnewlinstraße,wikidata,,Q267955,way
 "Schönauer Straße",wikidata,,Q61731,way
@@ -135,6 +151,7 @@ Schönbergstraße,wikidata,,Q885298,way
 Schwabentorplatz,wikidata,,Q2252613,way
 Schwabentorring,wikidata,,Q2252613,way
 Schwabentorsteg,wikidata,,Q2252613,way
+Schwarzwaldstraße,wikidata,,Q4204,way
 Schwimmbadstraße,wikidata,,Q1870286,way
 Sedanstraße,wikidata,,Q156681,way
 "Sessenheimer Straße",wikidata,,Q21305,way
@@ -150,6 +167,7 @@ Stühlingerplatz,wikidata,,Q1300474,way
 Sudetenstraße,wikidata,,Q194242,way
 "Sulzburger Straße",wikidata,,Q505849,way
 Sundgauallee,wikidata,,Q252268,way
+Talstraße,wikidata,,Q1258058,way
 Tellstraße,wikidata,,Q30908,way
 "Tennenbacher Straße",wikidata,,Q1776149,way
 "Terlaner Straße",wikidata,,Q494814,way
@@ -157,8 +175,10 @@ Thüringerstraße,wikidata,,Q1205,way
 "Tiengener Straße",wikidata,,Q1307671,way
 "Tiroler Weg",wikidata,,Q664364,way
 Tivolistraße,wikidata,,Q159605,way
+"Todtnauer Straße",wikidata,,Q61665,way
 Tunibergstraße,wikidata,,Q880403,way
 "Türkheimer Straße",wikidata,,Q157729,way
+Urachstraße,wikidata,,Q2106243,way
 Urbanstraße,wikidata,,Q2323454,way
 Vogesenstraße,wikidata,,Q187843,way
 "Vorarlberger Weg",wikidata,,Q38981,way
@@ -167,6 +187,7 @@ Vogesenstraße,wikidata,,Q187843,way
 "Waltershofener Straße",wikidata,,Q2547034,way
 Weidenstraße,wikidata,,Q36050,way
 Whittierstraße,wikidata,,Q838791,way
+Wiesentalstraße,wikidata,,Q1767252,way
 Wiesneckstraße,wikidata,,Q267955,way
 "Wilmersdorfer Straße",wikidata,,Q854113,way
 "Zähringer Straße",wikidata,,Q29125;Q247304,way
@@ -182,7 +203,6 @@ Adelheid-Steinmann-Straße,,,,way
 Adinda-Flemmich-Straße,,,,way
 Adlerstraße,,,,way
 Adolf-Keller-Weg,,,,way
-Agnesenstraße,,,,way
 Ahornweg,,,,way
 Akazienweg,,,,way
 Alfons-Schüle-Weg,,,,way
@@ -310,8 +330,6 @@ Bergmannsweg,,,,way
 "Berner Straße",,,,way
 Berta-Ottenstein-Straße,,,,way
 Bertha-von-Suttner-Straße,,,,way
-Bertoldstraße,,,,way
-Besançonallee,,,,way
 Bettackerstraße,,,,way
 Bettina-von-Arnim-Straße,,,,way
 "Betzenhauser Brücke",,,,way
@@ -319,7 +337,6 @@ Bettina-von-Arnim-Straße,,,,way
 "Betzenhauser Torplatz",,,,way
 "Betzenhauser Weg",,,,way
 Beurbarungsstraße,,,,way
-Bienenweg,,,,way
 Bifänge,,,,way
 Binzengrün,,,,way
 Birkenweg,,,,way
@@ -417,9 +434,7 @@ Dorfgraben,,,,way
 Dorfplatz,,,,way
 Dorfstraße,,,,way
 Drachenweg,,,,way
-Draisstraße,,,,way
 Dreherstraße,,,,way
-Drei-Ähren-Straße,,,,way
 "Dreier Reitweg",,,,way
 Dreikönigstraße,,,,way
 Dreisamradweg,,,,way
@@ -428,7 +443,6 @@ Dunantstraße,,,,way
 "Durchgang über Parkplatz",,,,way
 Dürleberg,,,,way
 Dürrstückrichtstatt,,,,way
-"Ebneter Straße",,,,way
 "Ebneter Wegle",,,,way
 Edith-Stein-Straße,,,,way
 Egertenstraße,,,,way
@@ -438,7 +452,6 @@ Eichbuckweg,,,,way
 Eichelbuckstraße,,,,way
 Eichelbuckweg,,,,way
 Eichhalde,,,,way
-"Eichstetter Straße",,,,way
 "Einkaufszentrum Freiburg-Weingarten",,,,way
 Einsteinstraße,,,,way
 Eisenbahnstraße,,,,way
@@ -457,7 +470,6 @@ Elisabeth-von-zur-Mühlen-Platz,,,,way
 Ellen-Gottlieb-Straße,,,,way
 Elly-Heuss-Knapp-Straße,,,,way
 Els-Schmidin-Weg,,,,way
-"Elsässer Straße",,,,way
 Else-Lasker-Schüler-Weg,,,,way
 Else-Liefmann-Platz,,,,way
 Else-Wagner-Straße,,,,way
@@ -483,9 +495,7 @@ Ettenbachweg,,,,way
 Etzmattenstraße,,,,way
 Eugen-Martin-Straße,,,,way
 Europaplatz,,,,relation+way
-FR2,,,,way
 Fabrikstraße,,,,way
-Fahnenbergplatz,,,,way
 Falkenbergerstraße,,,,way
 Falkensteinstraße,,,,way
 Fänchelenweg,,,,way
@@ -494,7 +504,6 @@ Fedderstraße,,,,way
 Feldmattenweg,,,,way
 Feldstraße,,,,way
 Ferdinand-Kopf-Straße,,,,way
-Ferdinand-Weiß-Straße,,,,way
 Ferrandstraße,,,,way
 Fesackerweg,,,,way
 Feuerspritzenweg,,,,way
@@ -516,13 +525,12 @@ Freiaustraße,,,,way
 "Freiburg (Breisgau) Hauptbahnhof",,,,way
 "Freiburger Landstraße",,,,way
 "Freiburger Straße",,,,way
+"Freiburger Weg",,,,way
 Freiladestraße,,,,way
 Freytagstraße,,,,way
 Friedrich-Neff-Straße,,,,way
 Friedrich-von-Hayek-Straße,,,,way
-Friedrichring,,,,way
 Friedrichsbaupassage,,,,way
-Friedrichstraße,,,,way
 Fritz-Horch-Weg,,,,way
 Fritz-Schieler-Platz,,,,way
 Fritz-Sütterlin-Steg,,,,way
@@ -606,7 +614,6 @@ Hardackerweg,,,,way
 Harriet-Straub-Straße,,,,way
 Hartkirchweg,,,,way
 Hasenweg,,,,way
-Haugerweg,,,,way
 Hauptstraße,,,,way
 Hauriweg,,,,way
 Häusleacker,,,,way
@@ -628,7 +635,6 @@ Heinrich-Mann-Straße,,,,way
 Heinrich-Rombach-Platz,,,,way
 Heinrich-Rosenberg-Platz,,,,way
 Heinrich-von-Gayling-Weg,,,,way
-Heinrich-von-Stephan-Straße,,,,way
 "Heitersheimer Weg",,,,way
 Hermann-Ehret-Weg,,,,way
 Hermann-Mitsch-Straße,,,,way
@@ -667,8 +673,6 @@ Honigbuck-Rundweg,,,,way
 Honigbuckweg,,,,way
 Hornbühlstraße,,,,way
 Hornusstraße,,,,way
-"Hügelheimer Weg",,,,way
-"Hugstetter Straße",,,,way
 Hugstmattweg,,,,way
 Humbergweg,,,,way
 Hundsrückenweg,,,,way
@@ -760,7 +764,6 @@ Jos-Fritz-Straße,,,,way
 Josef-Schweizer-Straße,,,,way
 Junghofweg,,,,way
 Junkermattenweg,,,,way
-Kaiser-Joseph-Straße,,,,way
 Kaiserbrücke,,,,way
 Kalkackerweg,,,,way
 Kammertalstraße,,,,way
@@ -779,7 +782,6 @@ Karl-Hausch-Weg,,,,way
 Karl-Rahner-Platz,,,,way
 Karlsbaupassage,,,,way
 Karlsplatz,,,,way
-"Karlsruher Straße",,,,way
 Karlssteg,,,,way
 Kartausweg,,,,way
 Kartoffelmarkt,,,,relation+way
@@ -797,7 +799,6 @@ Kirchenpfad,,,,way
 Kirchhofweg,,,,way
 Kirchlinsgrundweg,,,,way
 Kirchplatz,,,,way
-Kirchweg,,,,way
 Kirnerstraße,,,,way
 Kirschbaumweg,,,,way
 Klaradobelweg,,,,way
@@ -869,9 +870,7 @@ Leinhaldenweg,,,,way
 Leisackerweg,,,,way
 Leisnerstraße,,,,way
 Lembergallee,,,,way
-Leopoldring,,,,way
 Lerchenstraße,,,,way
-Lessingstraße,,,,way
 Lettenweg,,,,way
 Liebühl,,,,way
 Lilienweg,,,,way
@@ -890,7 +889,6 @@ Louise-Otto-Peters-Straße,,,,way
 Löwenstraße,,,,way
 Luckenbachweg,,,,way
 Ludwig-Frank-Weg,,,,way
-Ludwigstraße,,,,way
 Luisensteg,,,,way
 Luisenstraße,,,,way
 Lusbühlweg,,,,way
@@ -930,7 +928,6 @@ Martinsgässle,,,,way
 Marxenhofweg,,,,way
 Marxenweg,,,,way
 Mathias-Blank-Straße,,,,way
-Mathildenstraße,,,,way
 Matsuyamaallee,,,,way
 Mattenstraße,,,,way
 Matthias-Erzberger-Straße,,,,way
@@ -961,7 +958,6 @@ Mooswaldstraße,,,,way
 Möslestraße,,,,way
 Mühlenstraße,,,,way
 Mühlwaldweg,,,,way
-"Mülhauser Straße",,,,way
 Münchhofstraße,,,,way
 "Mundenhofer Steg",,,,way
 "Mundenhofer Weg",,,,way
@@ -1014,13 +1010,11 @@ Oberlinden,,,,way
 Ochsenbergweg,,,,way
 Ochsengasse,,,,way
 Ochsenhof,,,,way
-"Offenburger Straße",,,,way
 Ottiliensteg,,,,way
 "Otto Steiert Weg",,,,way
 Otto-Dangelmaier-Platz,,,,way
 Otto-Molz-Straße,,,,way
 Otto-Wels-Straße,,,,way
-Paduaallee,,,,way
 Pappelweg,,,,way
 Paul-Ehrlich-Straße,,,,way
 Paul-Klee-Straße,,,,way
@@ -1040,7 +1034,6 @@ Philomene-Steiger-Weg,,,,way
 "Platz der Universität",,,,way
 "Platz der Weißen Rose",,,,way
 "Platz der Zähringer",,,,way
-Pochgasse,,,,way
 Poststraße,,,,way
 Prangenkopfweg,,,,way
 Präsenzgässle,,,,way
@@ -1120,7 +1113,6 @@ Röteweg,,,,way
 Rothenhofweg,,,,way
 Rotlachweg,,,,way
 Rotlaubstraße,,,,way
-Rotteckring,,,,way
 Rudolf-Dischinger-Straße,,,,way
 Ruhbankweg,,,,way
 "Ruhinger Weg",,,,way
@@ -1134,7 +1126,6 @@ Sailendobelweg,,,,way
 Salamanderweg,,,,way
 Salzstraße,,,,way
 Sandfangbrücke,,,,way
-Sandfangweg,,,,way
 "Sankt Georgener Straße",,,,way
 "Sankt Nikolauser Straße",,,,way
 Sankt-Erentrudis-Straße,,,,way
@@ -1149,14 +1140,12 @@ Schäppeleweg,,,,way
 Schauinslandstraße,,,,way
 Schauinslandweg,,,,way
 Scheibenbergweg,,,,way
-Schenkendorfstraße,,,,way
 Schieblerweg,,,,way
 Schierbergstraße,,,,way
 Schießmauerweg,,,,way
 Schiffstraße,,,,way
 Schildackerweg,,,,way
 Schilfweg,,,,way
-Schillerstraße,,,,way
 Schillhof,,,,way
 Schinzingersteige,,,,way
 Schlangenweg,,,,way
@@ -1166,7 +1155,6 @@ Schlierbergsteige,,,,way
 Schlierbergstraße,,,,way
 Schlierbergweg,,,,way
 Schlippehof,,,,way
-Schlossbergring,,,,way
 Schlossbergsteg,,,,way
 Schlossbuck,,,,way
 Schlossgasse,,,,way
@@ -1196,8 +1184,6 @@ Schwaighofstraße,,,,way
 Schwanau,,,,way
 "Schwarzer Steg",,,,way
 Schwarzkehlchenweg,,,,way
-Schwarzwald,,,,relation
-Schwarzwaldstraße,,,,way
 Schwendistraße,,,,way
 Schwester-Adolfa-Weg,,,,way
 Seestraße,,,,way
@@ -1238,7 +1224,6 @@ St.-Martins-Gasse,,,,way
 St.-Stephan-Straße,,,,way
 Stadtdamm,,,,way
 Stadtstraße,,,,way
-"Stadttunnel Freiburg",,,,way
 Starkenstraße,,,,way
 Stationenweg,,,,way
 Staudenweg,,,,way
@@ -1263,10 +1248,8 @@ Studentenweg,,,,way
 Stühlingerbrücke,,,,way
 Stühlingerstraße,,,,way
 Stumpenweg,,,,way
-Stürtzelstraße,,,,way
 Suwonallee,,,,way
 Swetlana-Geier-Straße,,,,way
-Talstraße,,,,way
 Tannenbergstraße,,,,way
 Tannenbergweg,,,,way
 Tannengrundweg,,,,way
@@ -1281,7 +1264,6 @@ Thannhauserstraße,,,,way
 "Thuner Weg",,,,way
 "Tiengener Grenzweg",,,,way
 Tiergartenweg,,,,way
-"Todtnauer Straße",,,,way
 "Todtnauer Waldweg",,,,way
 Todtnauerweg,,,,way
 Tonio-Pflaum-Weg,,,,way
@@ -1316,7 +1298,6 @@ Unterfeldstraße,,,,way
 Unterlinden,,,,way
 Unterlindenpassage,,,,way
 Unterwerkstraße,,,,way
-Urachstraße,,,,way
 Valentinstraße,,,,way
 Vaubanallee,,,,way
 Verbindungsweg,,,,way
@@ -1369,13 +1350,11 @@ Weissfelsenweg,,,,way
 Weißerlenstraße,,,,way
 Welchentalstraße,,,,way
 "Wendlinger Straße",,,,way
-Werthmannstraße,,,,way
 Westarkaden,,,,way
 "Westlicher Seeweg",,,,way
 Westweg,,,,way
 Wiedehopfweg,,,,way
 Wiedenbachweg,,,,way
-Wiesentalstraße,,,,way
 Wiesenweg,,,,way
 Wihlerweg,,,,way
 Wildbachweg,,,,way
