@@ -11,7 +11,9 @@ return [
 
     // Exclude datas from beeing extracted. Usefull to exclude streets at the edge of the city for example
     'exclude' => [
-        'relation' => [],
+	    'relation' => [
+	    	3255371 // exclude black forest relation: cuts through the city and is irrelevant to the project
+	    ],
         'way' => [
             /*
             15221322, // Half Included street
