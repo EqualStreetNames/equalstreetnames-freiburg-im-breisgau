@@ -24,7 +24,7 @@ Belfortstraße,wikidata,,Q472982,way
 Bergleweg,wikidata,,Q1870290,way
 "Berliner Allee",wikidata,,Q64,way
 Bernlappstraße,wikidata,,Q267955,way
-Besançonallee,wikidata,,Q37776,way
+Besançonallee,wikidata,,Q259852;Q37776;Q885089,way
 Bienenweg,wikidata,,Q7391,way
 Blauenstraße,wikidata,,Q25630,way
 Bohlstraße,wikidata,,Q174574,way
@@ -122,7 +122,7 @@ Münsterstraße,wikidata,,Q250212,way
 Nordstraße,wikidata,,Q659,way
 "Oberrieder Straße",wikidata,,Q557698,way
 "Offenburger Straße",wikidata,,Q4044,way
-"Opfinger Straße",wikidata,,Q885089,way
+"Opfinger Straße",wikidata,,Q37776;Q885089,way
 Paduaallee,wikidata,,Q617,way
 Pochgasse,wikidata,,Q364000,way
 Quäkerstraße,wikidata,,Q170208,way
@@ -168,6 +168,7 @@ Sudetenstraße,wikidata,,Q194242,way
 "Sulzburger Straße",wikidata,,Q505849,way
 Sundgauallee,wikidata,,Q252268,way
 Talstraße,wikidata,,Q1258058,way
+Tel-Aviv-Yafo-Allee,wikidata,,Q885089,way
 Tellstraße,wikidata,,Q30908,way
 "Tennenbacher Straße",wikidata,,Q1776149,way
 "Terlaner Straße",wikidata,,Q494814,way
@@ -358,6 +359,7 @@ Bohrerweg,,,,way
 Bollerstaudenstraße,,,,way
 Bollerstaudenweg,,,,way
 "Bötzinger Straße",,,,way
+Boulevard,,,,way
 Brandbachweg,,,,way
 Brändenbergweg,,,,way
 Brandensteinstraße,,,,way
@@ -1256,7 +1258,6 @@ Tannengrundweg,,,,way
 Tannenpfad,,,,way
 Tannensteige,,,,way
 Taubenkopfweg,,,,way
-Tel-Aviv-Yafo-Allee,,,,way
 "Tennenbacher Platz",,,,relation
 Teufelsbrückle,,,,way
 Thannhauserstraße,,,,way
