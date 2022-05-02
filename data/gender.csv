@@ -2,13 +2,17 @@ name,source,gender,wikidata,type
 Barbarastraße,wikidata,F,Q192816,way
 Eggstraße,wikidata,F,Q94761222,way
 Elsa-Brändström-Straße,wikidata,F,Q469673,way
+Grete-Borgmann-Straße,wikidata,F,Q19720965,way
 Hildastraße,wikidata,F,Q236176,way
+Hilde-Mangold-Straße,wikidata,F,Q100742,way
 Katharinenhof,wikidata,F,Q94761222,way
 Katharinenstraße,wikidata,F,Q94761222,way
+Lina-Hähnle-Weg,wikidata,F,Q1825635,way
 Maria-Theresia-Straße,wikidata,F,Q131706,way
 Marie-Curie-Straße,wikidata,F,Q7186,way
 Mathildenstraße,wikidata,F,Q97124,way
 Stephanienstraße,wikidata,F,Q62024,way
+Achim-Stocker-Straße,wikidata,M,Q329185,way
 Adalbert-Stifter-Straße,wikidata,M,Q168542,way
 Admiral-Spee-Straße,wikidata,M,Q57185,way
 Adolf-Schmitthenner-Straße,wikidata,M,Q364172,way
@@ -45,6 +49,7 @@ Emil-Gött-Straße,wikidata,M,Q1336153,way
 Engelbergerstraße,wikidata,M,Q16006167,way
 Engesserstraße,wikidata,M,Q1458975,way
 Englerplatz,wikidata,M,Q15264263,way
+Ernst-Zermelo-Straße,wikidata,M,Q57248,way
 Erwinstraße,wikidata,M,Q68243,way
 Erzherzogstraße,wikidata,M,Q84201,way
 Fahnenbergplatz,wikidata,M,Q1446751,way
@@ -60,9 +65,11 @@ Friedrich-Ebert-Platz,wikidata,M,Q2646,relation+way
 Friedrichring,wikidata,M,Q57483,way
 Friedrichstraße,wikidata,M,Q57483,way
 Fritz-Geiges-Straße,wikidata,M,Q1466335,way
+Fritz-Schieler-Platz,wikidata,M,Q1468191,way
 Gabelsbergerstraße,wikidata,M,Q62137,way
 Galurastraße,wikidata,M,Q98781,way
 Gaußstraße,wikidata,M,Q6722,way
+George-de-Hevesy-Weg,wikidata,M,Q76951,way
 Gerbertstraße,wikidata,M,Q66625,way
 Gerhart-Hauptmann-Straße,wikidata,M,Q43523,way
 Glareanstraße,wikidata,M,Q124070,way
@@ -85,6 +92,7 @@ Hasemannstraße,wikidata,M,Q1479589,way
 Haugerweg,wikidata,M,Q1504608,way
 Haydnstraße,wikidata,M,Q7349,way
 Hebelstraße,wikidata,M,Q62512,way
+Heinrich-Rosenberg-Platz,wikidata,M,Q111584928,way
 Heinrich-von-Stephan-Straße,wikidata,M,Q215482,way
 Hermann-Herder-Straße,wikidata,M,Q1121637,way
 Hermann-Löns-Straße,wikidata,M,Q77486,way
@@ -115,9 +123,11 @@ Lichtenbergstraße,wikidata,M,Q1782123,way
 Liebigstraße,wikidata,M,Q16571,way
 Linnéstraße,wikidata,M,Q1043,way
 Lortzingstraße,wikidata,M,Q154203,way
+Ludwig-Frank-Weg,wikidata,M,Q90291,way
 Ludwigstraße,wikidata,M,Q57791,way
 Lugostraße,wikidata,M,Q1336473,way
 Marschallstraße,wikidata,M,Q363302,way
+Matthias-Erzberger-Straße,wikidata,M,Q57755,way
 Matthias-Grünewald-Straße,wikidata,M,Q154338,way
 Max-Reger-Straße,wikidata,M,Q57139,way
 Maximilianstraße,wikidata,M,Q150726,way
@@ -131,6 +141,7 @@ Neugartstraße,wikidata,M,Q102285,way
 Okenstraße,wikidata,M,Q55069834,way
 Oltmannsstraße,wikidata,M,Q102707,way
 Opitzstraße,wikidata,M,Q60946,way
+Otto-Wels-Straße,wikidata,M,Q61719,way
 Pestalozziweg,wikidata,M,Q105428,way
 Peter-Thumb-Straße,wikidata,M,Q86158,way
 Prinz-Eugen-Straße,wikidata,M,Q152428,way
@@ -150,6 +161,8 @@ Scheffelstraße,wikidata,M,Q9082,way
 Schenkendorfstraße,wikidata,M,Q71616,way
 Schenkstraße,wikidata,M,Q90983,way
 Schillerstraße,wikidata,M,Q22670,way
+Schinzingersteige,wikidata,M,Q1427598,way
+Schlippehof,wikidata,M,Q1707971,way
 Schoferstraße,wikidata,M,Q15437427,way
 Schongauerweg,wikidata,M,Q155575,way
 Schreiberstraße,wikidata,M,Q1598815,way

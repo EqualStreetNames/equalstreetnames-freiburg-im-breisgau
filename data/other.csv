@@ -62,6 +62,8 @@ Furtwänglerstraße,wikidata,,Q1322691,way
 Gaylingstraße,wikidata,,Q1496579,way
 Glacisweg,wikidata,,Q948008,way
 Goldammerweg,wikidata,,Q26205,way
+Granadaallee,wikidata,,Q8810,way
+Guildfordallee,wikidata,,Q213465,way
 "Gundelfinger Straße",wikidata,,Q535222,way
 Günterstalstraße,wikidata,,Q1561278,way
 Habichtweg,wikidata,,Q25353,way
@@ -79,6 +81,7 @@ Höllentalstraße,wikidata,,Q301685,way
 "Hugstetter Straße",wikidata,,Q557757,way
 "Im Falkenhof",wikidata,,Q26490,way
 "Innsbrucker Straße",wikidata,,Q1735,way
+Isfahanallee,wikidata,,Q42053,way
 Johanneskirchplatz,wikidata,,Q2319056,relation+way
 Käferweg,wikidata,,Q22671,way
 Kaiserstuhlstraße,wikidata,,Q701516,way
@@ -101,13 +104,16 @@ Kybfelsenstraße,wikidata,,Q31535420,way
 Landsknechtstraße,wikidata,,Q156733,way
 "Laufener Straße",wikidata,,Q1807397,way
 "Lehener Straße",wikidata,,Q1813051,way
+Lembergallee,wikidata,,Q36036,way
 Libellenweg,wikidata,,Q25375,way
 Littenweilerstraße,wikidata,,Q1865542,way
 Lorettostraße,wikidata,,Q1870290,way
 "Lörracher Straße",wikidata,,Q6855,way
 Lutherkirchstraße,wikidata,,Q62613957,way
+Madisonallee,wikidata,,Q43788,way
 Maltererstraße,wikidata,,Q1570977,way
 Malteserordensstraße,wikidata,,Q190353,way
+Matsuyamaallee,wikidata,,Q200022,way
 Matthiasweg,wikidata,,Q82296647,way
 "Merdinger Weg",wikidata,,Q142169,way
 "Merzhauser Straße",wikidata,,Q632798,way
@@ -167,8 +173,9 @@ Stühlingerplatz,wikidata,,Q1300474,way
 Sudetenstraße,wikidata,,Q194242,way
 "Sulzburger Straße",wikidata,,Q505849,way
 Sundgauallee,wikidata,,Q252268,way
+Suwonallee,wikidata,,Q20714,way
 Talstraße,wikidata,,Q1258058,way
-Tel-Aviv-Yafo-Allee,wikidata,,Q885089,way
+Tel-Aviv-Yafo-Allee,wikidata,,Q33935;Q885089,way
 Tellstraße,wikidata,,Q30908,way
 "Tennenbacher Straße",wikidata,,Q1776149,way
 "Terlaner Straße",wikidata,,Q494814,way
@@ -191,13 +198,13 @@ Whittierstraße,wikidata,,Q838791,way
 Wiesentalstraße,wikidata,,Q1767252,way
 Wiesneckstraße,wikidata,,Q267955,way
 "Wilmersdorfer Straße",wikidata,,Q854113,way
+Wiwilibrücke,wikidata,,Q1014671,way
 "Zähringer Straße",wikidata,,Q29125;Q247304,way
 Zeisigweg,wikidata,,Q5261336,way
 "1. Jägerweg",,,,way
 25,,,,way
 Abrichstraße,,,,way
 "Abteilung 6 Mittelweg",,,,way
-Achim-Stocker-Straße,,,,way
 Ackerstraße,,,,way
 "Adelhauser Klosterplatz",,,,way
 Adelheid-Steinmann-Straße,,,,way
@@ -360,7 +367,12 @@ Bohnenwinkelweg,,,,way
 Bohrerweg,,,,way
 Bollerstaudenstraße,,,,way
 Bollerstaudenweg,,,,way
-Borderline,,,,way
+"Borderline (Abschnitt 1)",,,,way
+"Borderline (Abschnitt 2)",,,,way
+"Borderline (Abschnitt 3)",,,,way
+"Borderline (Abschnitt 4)",,,,way
+"Borderline (Abschnitt 5)",,,,way
+"Borderline (Abschnitt 6)",,,,way
 "Bötzinger Straße",,,,way
 Boulevard,,,,way
 Brandbachweg,,,,way
@@ -396,6 +408,7 @@ Burgmatt,,,,way
 Burgweg,,,,way
 "Burkheimer Straße",,,,way
 Bursengang,,,,way
+Businessmile,,,,way
 Bußstraße,,,,way
 Buttergasse,,,,way
 Butzenhäusleweg,,,,way
@@ -488,7 +501,6 @@ Erbprinzenstraße,,,,way
 Erdbienenweg,,,,way
 Erica-Sinauer-Straße,,,,way
 Erlenweg,,,,way
-Ernst-Zermelo-Straße,,,,way
 Erzwäscherei,,,,way
 Erzweg,,,,way
 Eschbachweg,,,,way
@@ -496,7 +508,8 @@ Eschenwegle,,,,way
 Eschholzstraße,,,,way
 Eschmattenweg,,,,way
 Eselbackenweg,,,,way
-"Eselbackenweg - Kybfelsensteig",,,,way
+Eselsbackenweg,,,,way
+"Eselsbackenweg - Kybfelsensteig",,,,way
 Ettenbachweg,,,,way
 Etzmattenstraße,,,,way
 Eugen-Martin-Straße,,,,way
@@ -539,7 +552,6 @@ Friedrich-Neff-Straße,,,,way
 Friedrich-von-Hayek-Straße,,,,way
 Friedrichsbaupassage,,,,way
 Fritz-Horch-Weg,,,,way
-Fritz-Schieler-Platz,,,,way
 Fritz-Sütterlin-Steg,,,,way
 Fuchsköpfleweg,,,,way
 Fuchsstraße,,,,way
@@ -555,7 +567,6 @@ Gebenstraße,,,,way
 Gebhard-Kromer-Straße,,,,way
 Gehrenstraße,,,,way
 Georg-Elser-Straße,,,,way
-George-de-Hevesy-Weg,,,,way
 Georges-Köhler-Allee,,,,way
 Gerberau,,,,way
 Gerbersteg,,,,way
@@ -573,13 +584,11 @@ Gilgenmatten,,,,way
 Glottertalstraße,,,,way
 "Gottenheimer Straße",,,,way
 Gottfriedstraße,,,,way
-Granadaallee,,,,way
 Granatgässle,,,,way
 Greiffeneggbrücke,,,,way
 Grenzstraße,,,,way
 Grenzweg,,,,way
 Gresserstraße,,,,way
-Grete-Borgmann-Straße,,,,way
 Gretherstraße,,,,way
 Griestal,,,,way
 Grillenweg,,,,way
@@ -592,7 +601,6 @@ Gruberhof,,,,way
 Grundweg,,,,way
 Grünlandstraße,,,,way
 Grünwälderstraße,,,,way
-Guildfordallee,,,,way
 Gumpensteige,,,,way
 "Gündlinger Straße",,,,way
 Günterstalerweg,,,,way
@@ -640,7 +648,6 @@ Heinrich-Finke-Straße,,,,way
 Heinrich-Heine-Straße,,,,way
 Heinrich-Mann-Straße,,,,way
 Heinrich-Rombach-Platz,,,,way
-Heinrich-Rosenberg-Platz,,,,way
 Heinrich-von-Gayling-Weg,,,,way
 "Heitersheimer Weg",,,,way
 Hermann-Ehret-Weg,,,,way
@@ -652,7 +659,6 @@ Heuweg,,,,way
 Heuweilerstraße,,,,way
 Hexentrail,,,,way
 Hieberainle,,,,way
-Hilde-Mangold-Straße,,,,way
 Hildegard-von-Bingen-Weg,,,,way
 "Hinter den Gärten",,,,way
 "Hintere Steige",,,,way
@@ -753,7 +759,6 @@ Ingeborg-Krummer-Schroth-Straße,,,,way
 Insel,,,,way
 Irene-Schlempp-Weg,,,,way
 Irisweg,,,,way
-Isfahanallee,,,,way
 Ittnerstraße,,,,way
 Jacob-Burckhardt-Straße,,,,way
 Jägerhäusleweg,,,,way
@@ -879,12 +884,10 @@ Leinenweberstraße,,,,way
 Leinhaldenweg,,,,way
 Leisackerweg,,,,way
 Leisnerstraße,,,,way
-Lembergallee,,,,way
 Lerchenstraße,,,,way
 Lettenweg,,,,way
 Liebühl,,,,way
 Lilienweg,,,,way
-Lina-Hähnle-Weg,,,,way
 Lindenmattenstraße,,,,way
 Lindenstraße,,,,way
 Linkmattenweg,,,,way
@@ -898,11 +901,9 @@ Lotte-Paepcke-Hof,,,,way
 Louise-Otto-Peters-Straße,,,,way
 Löwenstraße,,,,way
 Luckenbachweg,,,,way
-Ludwig-Frank-Weg,,,,way
 Luisensteg,,,,way
 Luisenstraße,,,,way
 Lusbühlweg,,,,way
-Madisonallee,,,,way
 Magdalena-Gerber-Straße,,,,way
 Magdalénienstraße,,,,way
 Maiackerweg,,,,way
@@ -931,9 +932,7 @@ Martinsgässle,,,,way
 Marxenhofweg,,,,way
 Marxenweg,,,,way
 Mathias-Blank-Straße,,,,way
-Matsuyamaallee,,,,way
 Mattenstraße,,,,way
-Matthias-Erzberger-Straße,,,,way
 Max-Josef-Metzger-Straße,,,,way
 Max-Müller-Steg,,,,way
 Max-Rieple-Weg,,,,way
@@ -1017,7 +1016,6 @@ Ottiliensteg,,,,way
 "Otto Steiert Weg",,,,way
 Otto-Dangelmaier-Platz,,,,way
 Otto-Molz-Straße,,,,way
-Otto-Wels-Straße,,,,way
 Pappelweg,,,,way
 Paul-Ehrlich-Straße,,,,way
 Paul-Klee-Straße,,,,way
@@ -1037,6 +1035,7 @@ Philomene-Steiger-Weg,,,,way
 "Platz der Universität",,,,way
 "Platz der Weißen Rose",,,,way
 "Platz der Zähringer",,,,way
+"Platz des Handwerks",,,,way
 Poststraße,,,,way
 Prangenkopfweg,,,,way
 Präsenzgässle,,,,way
@@ -1151,14 +1150,12 @@ Schiffstraße,,,,way
 Schildackerweg,,,,way
 Schilfweg,,,,way
 Schillhof,,,,way
-Schinzingersteige,,,,way
 Schlangenweg,,,,way
 Schlatthofstraße,,,,way
 Schlattweg,,,,way
 Schlierbergsteige,,,,way
 Schlierbergstraße,,,,way
 Schlierbergweg,,,,way
-Schlippehof,,,,way
 Schlossbergsteg,,,,way
 Schlossbuck,,,,way
 Schlossgasse,,,,way
@@ -1259,7 +1256,6 @@ Studentenweg,,,,way
 Stühlingerbrücke,,,,way
 Stühlingerstraße,,,,way
 Stumpenweg,,,,way
-Suwonallee,,,,way
 Swetlana-Geier-Straße,,,,way
 Tannenbergstraße,,,,way
 Tannenbergweg,,,,way
@@ -1383,7 +1379,6 @@ Wippertskirch,,,,way
 Wippertstraße,,,,way
 Wirthstraße,,,,way
 Wirtschaftsweg,,,,way
-Wiwilibrücke,,,,way
 Wolfackerweg,,,,way
 Wolfgartenweg,,,,way
 Wölflinstraße,,,,way
@@ -1418,4 +1413,5 @@ Zunftstraße,,,,way
 Zweilinden,,,,way
 Zwiegerackerweg,,,,way
 Zwischenweg,,,,way
+"östl. Seeweg",,,,way
 "östlicher Tiergartenweg",,,,way
