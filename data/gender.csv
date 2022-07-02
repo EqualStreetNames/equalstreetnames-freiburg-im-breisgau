@@ -6,8 +6,13 @@ Barbarastraße,wikidata,F,Q192816,way
 Bertha-von-Suttner-Straße,wikidata,F,Q18456,way
 Bettina-von-Arnim-Straße,wikidata,F,Q57236,way
 Cornelia-Schlosser-Allee,wikidata,F,Q95740,way
+Edith-Stein-Straße,wikidata,F,Q76749,way
 Eggstraße,wikidata,F,Q94761222,way
+Elisabeth-Selbert-Straße,wikidata,F,Q75976,way
+Elisabeth-Walter-Straße,wikidata,F,Q106956,way
 Elsa-Brändström-Straße,wikidata,F,Q469673,way
+Else-Lasker-Schüler-Weg,wikidata,F,Q58033,way
+Emma-Herwegh-Straße,wikidata,F,Q1338039,way
 Erica-Sinauer-Straße,wikidata,F,Q30392868,way
 Freda-Wuesthoff-Weg,wikidata,F,Q1452576,way
 Grete-Borgmann-Straße,wikidata,F,Q19720965,way
@@ -29,9 +34,11 @@ Maria-Föhrenbach-Straße,wikidata,F,Q1895890,way
 Maria-Theresia-Straße,wikidata,F,Q131706,way
 Marie-Curie-Straße,wikidata,F,Q7186,way
 Marina-Zwetajewa-Weg,wikidata,F,Q188526,way
+Martha-Walz-Birrer-Straße,wikidata,F,Q112671268,way
 Mathilde-Otto-Platz,wikidata,F,Q1908710,way
 Mathildenstraße,wikidata,F,Q97124,way
 Nelly-Sachs-Straße,wikidata,F,Q57074,way
+Ricarda-Huch-Straße,wikidata,F,Q60785,way
 Rose-Ausländer-Weg,wikidata,F,Q60873,way
 Simone-de-Beauvoir-Weg,wikidata,F,Q7197,way
 Stephanienstraße,wikidata,F,Q62024,way
@@ -44,6 +51,7 @@ Albertstraße,wikidata,M,Q145606,way
 Andreas-Hofer-Straße,wikidata,M,Q11697,way
 Angelus-Silesius-Straße,wikidata,M,Q60469,way
 Arndtstraße,wikidata,M,Q57351,way
+Aschenbrennerstraße,wikidata,M,Q112663606,way
 Auerstraße,wikidata,M,Q89390,way
 August-Ganther-Straße,wikidata,M,Q19502012,way
 Baldensteinstraße,wikidata,M,Q18625885,way
@@ -51,12 +59,14 @@ Beethovenstraße,wikidata,M,Q255,way
 Bernhardstraße,wikidata,M,Q98487,way
 Bertoldstraße,wikidata,M,Q650536,way
 Bismarckallee,wikidata,M,Q8442,way
+Bissierstraße,wikidata,M,Q872641,way
 Blasiusstraße,wikidata,M,Q151967,way
 Blücherstraße,wikidata,M,Q153522,way
 Boelckestraße,wikidata,M,Q57716,way
 Brahmsstraße,wikidata,M,Q7294,way
 Brucknerstraße,wikidata,M,Q81752,way
 Cardinalweg,wikidata,M,Q540532,way
+Carl-Kistner-Straße,wikidata,M,Q112600462,way
 Carl-Maria-von-Weber-Straße,wikidata,M,Q154812,way
 Carl-Mez-Straße,wikidata,M,Q1039765,way
 Carl-von-Ossietzky-Straße,wikidata,M,Q76358,way
@@ -85,6 +95,7 @@ Fichtestraße,wikidata,M,Q102585,way
 Franz-Geiler-Platz,wikidata,M,Q1446897,way
 Franz-Liszt-Straße,wikidata,M,Q41309,way
 Freiligrathstraße,wikidata,M,Q213719,way
+Freytagstraße,wikidata,M,Q58811,way
 Friedrich-Ebert-Platz,wikidata,M,Q2646,relation+way
 Friedrich-von-Hayek-Straße,wikidata,M,Q1325,way
 Friedrichring,wikidata,M,Q57483,way
@@ -105,6 +116,7 @@ Goethestraße,wikidata,M,Q5879,way
 Gorch-Fock-Straße,wikidata,M,Q69087,way
 Greiffeneggring,wikidata,M,Q1436696,way
 Grillparzerstraße,wikidata,M,Q154438,way
+Gruberhof,wikidata,M,Q100965,way
 Gutenbergstraße,wikidata,M,Q8958,way
 Hallerstraße,wikidata,M,Q1666436,way
 Händelstraße,wikidata,M,Q7302,way
@@ -126,6 +138,7 @@ Holbeinplatz,wikidata,M,Q48319,way
 Holbeinstraße,wikidata,M,Q48319,way
 Humboldtstraße,wikidata,M,Q77888,way
 Hummelstraße,wikidata,M,Q1910526,way
+Husserlstraße,wikidata,M,Q58586,way
 Jacobistraße,wikidata,M,Q68209,way
 Jahnstraße,wikidata,M,Q77098,way
 Jean-Monnet-Straße,wikidata,M,Q159700,way
@@ -140,6 +153,7 @@ Kolpingstraße,wikidata,M,Q60619,way
 Konradin-Kreutzer-Straße,wikidata,M,Q458732,way
 Konradstraße,wikidata,M,Q650499,way
 Körnerstraße,wikidata,M,Q62344,way
+Kußmaulstraße,wikidata,M,Q63005,way
 Lambertusstraße,wikidata,M,Q283447,way
 Lameystraße,wikidata,M,Q98878,way
 Leo-Wohleb-Straße,wikidata,M,Q216240,way
@@ -156,8 +170,10 @@ Marschallstraße,wikidata,M,Q363302,way
 Matthias-Erzberger-Straße,wikidata,M,Q57755,way
 Matthias-Grünewald-Straße,wikidata,M,Q154338,way
 Max-Reger-Straße,wikidata,M,Q57139,way
+Max-Rieple-Weg,wikidata,M,Q13142780,way
 Maxim-Gorkij-Straße,wikidata,M,Q12706,way
 Maximilianstraße,wikidata,M,Q150726,way
+Meckelhof,wikidata,M,Q1036760,way
 Mercystraße,wikidata,M,Q644425,way
 Merianhof,wikidata,M,Q2087048,way
 Merianstraße,wikidata,M,Q2087048,way
@@ -199,11 +215,11 @@ Schumannstraße,wikidata,M,Q7351,way
 Sebastian-Kneipp-Straße,wikidata,M,Q45075,way
 Siemensstraße,wikidata,M,Q58577,way
 Speckbacherweg,wikidata,M,Q87429,way
-Spemannplatz,wikidata,M,Q57568,relation+way
 Stefan-Meier-Straße,wikidata,M,Q97927,way
 Steyrerstraße,wikidata,M,Q2086891,way
 Stürtzelstraße,wikidata,M,Q1782335,way
 Sudermannstraße,wikidata,M,Q65448,way
+Thannhauserstraße,wikidata,M,Q2283795,way
 Tonio-Pflaum-Weg,wikidata,M,Q29583172,way
 Tullastraße,wikidata,M,Q72843,way
 Türkenlouisstraße,wikidata,M,Q58755,way
@@ -218,8 +234,11 @@ Wentzingerstraße,wikidata,M,Q106952,way
 Werthmannstraße,wikidata,M,Q1749106,way
 Wiechertstraße,wikidata,M,Q64850,way
 Wilhelm-Dürr-Straße,wikidata,M,Q2572447,way
+Wilhelm-Eschle-Platz,wikidata,M,Q112678729,way
+Wilhelm-von-Möllendorff-Straße,wikidata,M,Q1670409,way
 Wilhelmstraße,wikidata,M,Q150652,way
 Willy-Brandt-Allee,wikidata,M,Q2514,way
+Windausstraße,wikidata,M,Q77142,way
 Wintererstraße,wikidata,M,Q2041017,way
 Wöhlerstraße,wikidata,M,Q58575,way
 Wolfgang-Hoffmann-Platz,wikidata,M,Q2590015,way

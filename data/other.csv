@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 Agnesenstraße,wikidata,,Q28976917,way
 Alemannensteige,wikidata,,Q132990,way
 Alemannenstraße,wikidata,,Q132990,way
+"Am Bischofskreuz",wikidata,,Q112690811,way
 "Am Flughafen",wikidata,,Q1312244,way
 "Am Schlossberg",wikidata,,Q277106,way
 Amselweg,wikidata,,Q25234,way
@@ -36,6 +37,7 @@ Brombergstraße,wikidata,,Q31560393,way
 Burghaldering,wikidata,,Q139420,way
 "Burgunder Straße",wikidata,,Q1767171,way
 Bussardweg,wikidata,,Q235152,way
+"Charlottenburger Straße",wikidata,,Q162049,way
 "Colmarer Straße",wikidata,,Q130994,way
 Drei-Ähren-Straße,wikidata,,Q3539923,way
 Dreisamstraße,wikidata,,Q515480,way
@@ -128,8 +130,9 @@ Münsterstraße,wikidata,,Q250212,way
 Nordstraße,wikidata,,Q659,way
 "Oberrieder Straße",wikidata,,Q557698,way
 "Offenburger Straße",wikidata,,Q4044,way
-"Opfinger Straße",wikidata,,Q37776;Q885089,way
+"Opfinger Straße",wikidata,,Q885089,way
 Paduaallee,wikidata,,Q617,way
+"Platz am Bischofskreuz",wikidata,,Q112690811,way
 Pochgasse,wikidata,,Q364000,way
 Quäkerstraße,wikidata,,Q170208,way
 "Rastatter Straße",wikidata,,Q6874,way
@@ -175,7 +178,7 @@ Sudetenstraße,wikidata,,Q194242,way
 Sundgauallee,wikidata,,Q252268,way
 Suwonallee,wikidata,,Q20714,way
 Talstraße,wikidata,,Q1258058,way
-Tel-Aviv-Yafo-Allee,wikidata,,Q33935;Q885089,way
+Tel-Aviv-Yafo-Allee,wikidata,,Q33935,way
 Tellstraße,wikidata,,Q30908,way
 "Tennenbacher Straße",wikidata,,Q1776149,way
 "Terlaner Straße",wikidata,,Q494814,way
@@ -231,7 +234,6 @@ Alois-Frank-Weg,,,,way
 Altgasse,,,,way
 "Am Anger",,,,way
 "Am Bannwald",,,,way
-"Am Bischofskreuz",,,,way
 "Am Dreisamgarten",,,,way
 "Am Dreschschopf",,,,way
 "Am Eichbächle",,,,way
@@ -292,7 +294,6 @@ Anton-Dichtel-Platz,,,,way
 "Arlesheimer Waldweg",,,,way
 Arne-Torgersen-Straße,,,,way
 Arnold-Fanck-Straße,,,,way
-Aschenbrennerstraße,,,,way
 Astrid-Lindgren-Straße,,,,way
 "Auf der Bleiche",,,,way
 "Auf der Hardt",,,,way
@@ -346,7 +347,6 @@ Bifänge,,,,way
 Binzengrün,,,,way
 Birkenweg,,,,way
 Birnbaumweg,,,,way
-Bissierstraße,,,,way
 Blankenbergweg,,,,way
 Blankreutestraße,,,,way
 "Blaue Raute",,,,way
@@ -413,11 +413,9 @@ Butzenwaldweg,,,,way
 "Canadian Trail",,,,way
 "Canadian Trail uphill",,,,way
 Carl-Engler-Weg,,,,way
-Carl-Kistner-Straße,,,,way
 Carl-Mez-Weg,,,,way
 Caspar-Schrenk-Weg,,,,way
 Charlotte-Wolff-Weg,,,,way
-"Charlottenburger Straße",,,,way
 Chevilly-Larue-Weg,,,,way
 Christahof,,,,way
 Christaweg,,,,way
@@ -457,7 +455,6 @@ Dunantstraße,,,,way
 Dürleberg,,,,way
 Dürrstückrichtstatt,,,,way
 "Ebneter Wegle",,,,way
-Edith-Stein-Straße,,,,way
 Egertenstraße,,,,way
 Eichbergstraße,,,,way
 Eichbergweg,,,,way
@@ -477,16 +474,12 @@ Elefantenweg,,,,way
 Elisabeth-Emter-Weg,,,,way
 Elisabeth-Geissler-Ruckmich-Straße,,,,way
 Elisabeth-Hettich-Straße,,,,way
-Elisabeth-Selbert-Straße,,,,way
-Elisabeth-Walter-Straße,,,,way
 Elisabeth-von-zur-Mühlen-Platz,,,,way
 Ellen-Gottlieb-Straße,,,,way
 Elly-Heuss-Knapp-Straße,,,,way
 Els-Schmidin-Weg,,,,way
-Else-Lasker-Schüler-Weg,,,,way
 Else-Liefmann-Platz,,,,way
 Else-Wagner-Straße,,,,way
-Emma-Herwegh-Straße,,,,way
 Emmy-Noether-Straße,,,,way
 Engelmatte,,,,way
 Engelstraße,,,,way
@@ -508,6 +501,7 @@ Etzmattenstraße,,,,way
 Eugen-Martin-Straße,,,,way
 Europaplatz,,,,relation+way
 Extrol,,,,relation
+FR2,,,,way
 Fabrikstraße,,,,way
 Falkenbergerstraße,,,,way
 Falkensteinstraße,,,,way
@@ -539,7 +533,6 @@ Freiaustraße,,,,way
 "Freiburger Straße",,,,way
 "Freiburger Weg",,,,way
 Freiladestraße,,,,way
-Freytagstraße,,,,way
 Friedrich-Neff-Straße,,,,way
 Friedrichsbaupassage,,,,way
 Fritz-Horch-Weg,,,,way
@@ -587,7 +580,6 @@ Grillenweg,,,,way
 "Große Roos",,,,way
 Großtalstraße,,,,way
 Grottenweg,,,,way
-Gruberhof,,,,way
 Grundweg,,,,way
 Grünlandstraße,,,,way
 Grünwälderstraße,,,,way
@@ -680,7 +672,6 @@ Hundsrückenweg,,,,way
 Hurstbrunnenstraße,,,,way
 Hurstweg,,,,way
 Husarenwegle,,,,way
-Husserlstraße,,,,way
 Hüttweg,,,,way
 Hutweg,,,,way
 Ida-Kerkovius-Straße,,,,way
@@ -833,7 +824,6 @@ Kunzenweg,,,,way
 Kurt-Sauer-Weg,,,,way
 Kurt-Tucholsky-Straße,,,,way
 "Kurze Straße",,,,way
-Kußmaulstraße,,,,way
 Kybfelsensteig,,,,way
 Kybfelsenweg,,,,way
 Lachendämmle,,,,way
@@ -905,7 +895,6 @@ Markthalle,,,,way
 Markusplatz,,,,way
 Markwaldstraße,,,,way
 Martackertenstraße,,,,way
-Martha-Walz-Birrer-Straße,,,,way
 Martinsgässle,,,,way
 Marxenhofweg,,,,way
 Marxenweg,,,,way
@@ -913,9 +902,7 @@ Mathias-Blank-Straße,,,,way
 Mattenstraße,,,,way
 Max-Josef-Metzger-Straße,,,,way
 Max-Müller-Steg,,,,way
-Max-Rieple-Weg,,,,way
 Maximilian-Kolbe-Weg,,,,way
-Meckelhof,,,,way
 Meierbergweg,,,,way
 Meisenbergweg,,,,way
 Meisenweg,,,,way
@@ -1006,7 +993,6 @@ Pflegerweg,,,,way
 Pflugshaldenweg,,,,way
 Pflugshaldestraße,,,,way
 Philomene-Steiger-Weg,,,,way
-"Platz am Bischofskreuz",,,,way
 "Platz der Alten Synagoge",,,,relation+way
 "Platz der Universität",,,,way
 "Platz der Weißen Rose",,,,way
@@ -1049,7 +1035,6 @@ Retzbachweg,,,,way
 Reutebach,,,,way
 Reutebachgasse,,,,way
 Reutestraße,,,,way
-Ricarda-Huch-Straße,,,,way
 Richard-Kuenzer-Straße,,,,way
 Riedbergstraße,,,,way
 Riedgraben,,,,way
@@ -1184,6 +1169,7 @@ Sonnenstraße,,,,way
 Sonnhalde,,,,way
 Spargelweg,,,,way
 Spechtpassage,,,,way
+Spemannplatz,,,,relation
 Spielhöfe,,,,way
 Spitalfeldweg,,,,way
 Spittelackerstraße,,,,way
@@ -1239,7 +1225,6 @@ Tannensteige,,,,way
 Taubenkopfweg,,,,way
 "Tennenbacher Platz",,,,relation
 Teufelsbrückle,,,,way
-Thannhauserstraße,,,,way
 "Thuner Weg",,,,way
 "Tiengener Grenzweg",,,,way
 Tiergartenweg,,,,way
@@ -1338,10 +1323,7 @@ Wildbachweg,,,,way
 Wildgrubenweg,,,,way
 Wildtalstraße,,,,way
 Wildtalweg,,,,way
-Wilhelm-Eschle-Platz,,,,way
 Wilhelm-Schüle-Weg,,,,way
-Wilhelm-von-Möllendorff-Straße,,,,way
-Windausstraße,,,,way
 Windhäuslegasse,,,,way
 Winterhalterkreuzweg,,,,way
 Winzerstraße,,,,way
