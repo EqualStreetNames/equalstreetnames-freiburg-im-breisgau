@@ -17,7 +17,7 @@ Elisabeth-Geissler-Ruckmich-Straße,wikidata,F,Q113458346,way
 Elisabeth-Selbert-Straße,wikidata,F,Q75976,way
 Elisabeth-Walter-Straße,wikidata,F,Q106956,way
 Ellen-Gottlieb-Straße,wikidata,F,Q113458040,way
-Elly-Heuss-Knapp-Straße,wikidata,F,Q78010,way
+Elly-Heuss-Knapp-Straße,config+wikidata,F,Q78010,way
 Elsa-Brändström-Straße,wikidata,F,Q469673,way
 Else-Lasker-Schüler-Weg,wikidata,F,Q58033,way
 Else-Liefmann-Platz,wikidata,F,Q17425392,way
@@ -29,12 +29,13 @@ Freda-Wuesthoff-Weg,wikidata,F,Q1452576,way
 Gerda-Weiler-Straße,wikidata,F,Q1511025,way
 Grete-Borgmann-Straße,wikidata,F,Q19720965,way
 Hannah-Arendt-Weg,wikidata,F,Q60025,way
+Hanni-Rocco-Platz,wikidata,F,Q112220017,way
 Harriet-Straub-Straße,wikidata,F,Q1586154,way
 Hedwig-Dohm-Weg,wikidata,F,Q71491,way
 Hildastraße,wikidata,F,Q236176,way
 Hilde-Mangold-Straße,wikidata,F,Q100742,way
 Hildegard-von-Bingen-Weg,wikidata,F,Q70991,way
-Ida-Kerkovius-Straße,wikidata,F,Q1656517,way
+Ida-Kerkovius-Straße,config+wikidata,F,Q1656517,way
 Ingeborg-Bachmann-Weg,wikidata,F,Q78506,way
 Ingeborg-Drewitz-Allee,wikidata,F,Q71381,way
 Ingeborg-Krummer-Schroth-Straße,wikidata,F,Q1662905,way
@@ -45,7 +46,7 @@ Katharinenhof,wikidata,F,Q94761222,way
 Katharinenstraße,wikidata,F,Q94761222,way
 Käthe-Kollwitz-Straße,wikidata,F,Q142472,way
 Käthe-Vordtriede-Weg,wikidata,F,Q1795558,way
-Lina-Hähnle-Weg,wikidata,F,Q1825635,way
+Lina-Hähnle-Weg,config+wikidata,F,Q1825635,way
 Lise-Meitner-Straße,wikidata,F,Q56189,way
 Lotte-Paepcke-Hof,wikidata,F,Q1573960,way
 Louise-Otto-Peters-Straße,wikidata,F,Q71507,way
@@ -76,7 +77,7 @@ Adlerstraße,wikidata,M,Q1298024,way
 Admiral-Spee-Straße,wikidata,M,Q57185,way
 Adolf-Schmitthenner-Straße,wikidata,M,Q364172,way
 Albertstraße,wikidata,M,Q145606,way
-Alfred-Döblin-Platz,wikidata,M,Q57389,way
+Alfred-Döblin-Platz,config+wikidata,M,Q57389,way
 Alois-Eckert-Straße,wikidata,M,Q94761279,way
 "Am Karlsplatz",wikidata,M,Q57799,way
 Andreas-Hofer-Straße,wikidata,M,Q11697,way
@@ -128,7 +129,7 @@ Erbprinzenstraße,wikidata,M,Q57414,way
 Ernst-Zermelo-Straße,wikidata,M,Q57248,way
 Erwinstraße,wikidata,M,Q68243,way
 Erzherzogstraße,wikidata,M,Q84201,way
-Eugen-Martin-Straße,wikidata,M,Q98035,way
+Eugen-Martin-Straße,config+wikidata,M,Q98035,way
 Fahnenbergplatz,wikidata,M,Q1446751,way
 Faulerstraße,wikidata,M,Q1288281,way
 Fehrenbachallee,wikidata,M,Q77156,way
@@ -169,7 +170,7 @@ Gutenbergstraße,wikidata,M,Q8958,way
 Hallerstraße,wikidata,M,Q1666436,way
 Händelstraße,wikidata,M,Q7302,way
 Hans-Bunte-Straße,wikidata,M,Q95493,way
-Hans-Carl-Scherrer-Platz,wikidata,M,Q113340496,way
+Hans-Carl-Scherrer-Platz,config+wikidata,M,Q113340496,way
 Hans-Sachs-Gasse,wikidata,M,Q19543,way
 Hans-Thoma-Straße,wikidata,M,Q678094,way
 Hansjakobstraße,wikidata,M,Q1597505,way
@@ -200,7 +201,7 @@ Jacobistraße,wikidata,M,Q68209,way
 Jahnstraße,wikidata,M,Q77098,way
 Jean-Monnet-Straße,wikidata,M,Q159700,way
 Jensenstraße,wikidata,M,Q77444,way
-Johann-Jakob-Fechter-Weg,wikidata,M,Q1694803,way
+Johann-Jakob-Fechter-Weg,config+wikidata,M,Q1694803,way
 Johann-Sebastian-Bach-Straße,wikidata,M,Q1339,way
 Johann-von-Hattstein-Straße,wikidata,M,Q21031946,way
 Johann-von-Weerth-Straße,wikidata,M,Q63850,way
@@ -221,7 +222,7 @@ Konradstraße,wikidata,M,Q650499,way
 Körnerstraße,wikidata,M,Q62344,way
 Kurt-Tucholsky-Straße,wikidata,M,Q57386,way
 Kußmaulstraße,wikidata,M,Q63005,way
-Laisweg,wikidata,M,Q94810587,way
+Laisweg,config+wikidata,M,Q94810587,way
 Lambertusstraße,wikidata,M,Q283447,way
 Lameystraße,wikidata,M,Q98878,way
 Laßbergstraße,wikidata,M,Q89246,way
@@ -261,7 +262,7 @@ Oltmannsstraße,wikidata,M,Q102707,way
 Opitzstraße,wikidata,M,Q60946,way
 Otto-Wels-Straße,wikidata,M,Q61719,way
 Paul-Ehrlich-Straße,wikidata,M,Q57089,way
-Paul-Klee-Straße,wikidata,M,Q44007,way
+Paul-Klee-Straße,config+wikidata,M,Q44007,way
 Pestalozziweg,wikidata,M,Q105428,way
 Peter-Sprung-Straße,wikidata,M,Q94859787,way
 Peter-Thumb-Straße,wikidata,M,Q86158,way
@@ -278,7 +279,7 @@ Richard-Strauss-Straße,wikidata,M,Q13894,way
 Richard-Wagner-Straße,wikidata,M,Q1511,way
 Richthofenstraße,wikidata,M,Q4701,way
 Robert-Bunsen-Straße,wikidata,M,Q71031,way
-Robert-Grumbach-Platz,wikidata,M,Q1573184,way
+Robert-Grumbach-Platz,config+wikidata,M,Q1573184,way
 Robert-Koch-Straße,wikidata,M,Q37193,way
 Roseggerstraße,wikidata,M,Q93841,way
 Rotteckring,wikidata,M,Q213943,way
@@ -301,7 +302,7 @@ Sebastian-Kneipp-Straße,wikidata,M,Q45075,way
 Siemensstraße,wikidata,M,Q58577,way
 Speckbacherweg,wikidata,M,Q87429,way
 St.-Stephan-Straße,wikidata,M,Q161775,way
-Staudingerstraße,wikidata,M,Q48956,way
+Staudingerstraße,config+wikidata,M,Q48956,way
 Stefan-Meier-Straße,wikidata,M,Q97927,way
 Steyrerstraße,wikidata,M,Q2086891,way
 Struveweg,wikidata,M,Q213794,way
@@ -313,11 +314,11 @@ Tullastraße,wikidata,M,Q72843,way
 Türkenlouisstraße,wikidata,M,Q58755,way
 Uhlandstraße,wikidata,M,Q61058,way
 Vaubanallee,wikidata,M,Q192839,way
-Vinzenz-Zahn-Straße,wikidata,M,Q55901817,way
+Vinzenz-Zahn-Straße,config+wikidata,M,Q55901817,way
 Wackerstraße,wikidata,M,Q1513194,way
 Walter-Benjamin-Straße,wikidata,M,Q61078,way
 Walter-Flex-Straße,wikidata,M,Q73525,way
-Walter-Gropius-Straße,wikidata,M,Q61071,way
+Walter-Gropius-Straße,config+wikidata,M,Q61071,way
 Weddigenstraße,wikidata,M,Q62406,way
 Weismannstraße,wikidata,M,Q76465;Q463105,way
 Welckerstraße,wikidata,M,Q64180,way
@@ -337,6 +338,7 @@ Wolfgang-Hoffmann-Platz,wikidata,M,Q2590015,way
 Yorckstraße,wikidata,M,Q65432,way
 Zasiusstraße,wikidata,M,Q69024,way
 Adinda-Flemmich-Straße,config,F,,way
+Amalie-Gramm-Weg,config,F,,way
 Anna-Müller-Weg,config,F,,way
 Annaplatz,config,F,,relation+way
 Christahof,config,F,,way
@@ -344,9 +346,11 @@ Christaweg,config,F,,way
 Colombistraße,config,F,,way
 Elisabeth-Emter-Weg,config,F,,way
 Elisabeth-Hettich-Straße,config,F,,way
+Elisabeth-von-zur-Mühlen-Platz,config,F,,way
 Els-Schmidin-Weg,config,F,,way
 Magdalena-Gerber-Straße,config,F,,way
 Maria-Salome-Buchmüller-Straße,config,F,,way
+Philomene-Steiger-Weg,config,F,,way
 Rosastraße,config,F,,way
 Schwester-Adolfa-Weg,config,F,,way
 Selma-Stern-Weg,config,F,,way
@@ -365,18 +369,23 @@ Gottfriedstraße,config,M,,way
 Gresserstraße,config,M,,way
 Guntramstraße,config,M,,way
 Häberlestraße,config,M,,way
+Hans-Schneider-Weg,config,M,,way
 Hauriweg,config,M,,way
 Heinrich-von-Gayling-Weg,config,M,,way
 Hermann-Ehret-Weg,config,M,,way
 Hornusstraße,config,M,,way
 Imberyweg,config,M,,way
+Johann-Fraider-Weg,config,M,,way
+Karl-Hausch-Weg,config,M,,way
 Kunzenhof,config,M,,way
 Kunzenweg,config,M,,way
 Mallingerstraße,config,M,,way
 Mathias-Blank-Straße,config,M,,way
+Melanchthonweg,config,M,,way
 Otto-Dangelmaier-Platz,config,M,,way
 Otto-Molz-Straße,config,M,,way
 Rehlingstraße,config,M,,way
+Robert-Ruh-Weg,config,M,,way
 Seitzstraße,config,M,,way
 St.-Martins-Gasse,config,M,,way
 Walter-Knoell-Straße,config,M,,way
