@@ -66,6 +66,7 @@ Rahel-Varnhagen-Straße,wikidata,F,Q61793,way
 Ricarda-Huch-Straße,wikidata,F,Q60785,way
 Rosa-Luxemburg-Straße,wikidata,F,Q7231,way
 Rose-Ausländer-Weg,wikidata,F,Q60873,way
+Selma-Stern-Weg,wikidata,F,Q1346613,way
 Simone-de-Beauvoir-Weg,wikidata,F,Q7197,way
 St.-Elisabethen-Straße,wikidata,F,Q159862,way
 Stephanienstraße,wikidata,F,Q62024,way
@@ -301,6 +302,7 @@ Schwendistraße,wikidata,M,Q66558,way
 Sebastian-Kneipp-Straße,wikidata,M,Q45075,way
 Siemensstraße,wikidata,M,Q58577,way
 Speckbacherweg,wikidata,M,Q87429,way
+St.-Martins-Gasse,config+wikidata,M,Q133704,way
 St.-Stephan-Straße,wikidata,M,Q161775,way
 Staudingerstraße,config+wikidata,M,Q48956,way
 Stefan-Meier-Straße,wikidata,M,Q97927,way
@@ -353,7 +355,6 @@ Maria-Salome-Buchmüller-Straße,config,F,,way
 Philomene-Steiger-Weg,config,F,,way
 Rosastraße,config,F,,way
 Schwester-Adolfa-Weg,config,F,,way
-Selma-Stern-Weg,config,F,,way
 St.-Agatha-Weg,config,F,,way
 Adolf-Keller-Weg,config,M,,way
 Bauhöferstraße,config,M,,way
@@ -387,7 +388,6 @@ Otto-Molz-Straße,config,M,,way
 Rehlingstraße,config,M,,way
 Robert-Ruh-Weg,config,M,,way
 Seitzstraße,config,M,,way
-St.-Martins-Gasse,config,M,,way
 Walter-Knoell-Straße,config,M,,way
 Wannerstraße,config,M,,way
 Wihlerweg,config,M,,way
