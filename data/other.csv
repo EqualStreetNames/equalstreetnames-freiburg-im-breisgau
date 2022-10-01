@@ -15,7 +15,10 @@ Almendweg,wikidata,,Q2259176,way
 "Am Dreschschopf",wikidata,,Q1350230,way
 "Am Floßgraben",wikidata,,Q395976,way
 "Am Flughafen",wikidata,,Q1312244,way
+"Am Hertweg",wikidata,,Q1585152,way
 "Am Lindenwäldle",wikidata,,Q127849,way
+"Am Lusbühl",wikidata,,Q15833060;Q54050,way
+"Am Rotschachen",wikidata,,Q15844171,way
 "Am Schloss",wikidata,,Q2240738,way
 "Am Schlossberg",wikidata,,Q277106,way
 "Am Schwarzen Kloster",wikidata,,Q15852266,way
@@ -25,6 +28,8 @@ Andlawstraße,wikidata,,Q492179,way
 Anemonenweg,wikidata,,Q158286,way
 Antoniterstraße,wikidata,,Q606474,way
 "Auf der Haid",wikidata,,Q13572293,way
+"Auf der Hardt",wikidata,,Q1585152,way
+"Auf der Zinnen",wikidata,,Q23419,way
 "Auggener Weg",wikidata,,Q268734,way
 Augustinergasse,wikidata,,Q1776319,way
 Augustinerplatz,wikidata,,Q1776319,way
@@ -44,11 +49,13 @@ Bergleweg,wikidata,,Q1870290,way
 "Berliner Allee",wikidata,,Q64,way
 "Berner Straße",wikidata,,Q2326511,way
 Bernlappstraße,wikidata,,Q267955,way
-Besançonallee,wikidata,,Q259852;Q37776;Q885089,way
+Besançonallee,wikidata,,Q37776,way
 Bienenweg,wikidata,,Q7391,way
 Birkenweg,wikidata,,Q25243,way
+Blankreutestraße,wikidata,,Q3043226,way
 Blauenstraße,wikidata,,Q25630,way
 Blumeneckstraße,wikidata,,Q886170,way
+Bodenlei,wikidata,,Q65245690,way
 Bohlstraße,wikidata,,Q174574,way
 "Bötzinger Straße",wikidata,,Q518889,way
 "Bozener Straße",wikidata,,Q6526,way
@@ -58,6 +65,7 @@ Brendweg,wikidata,,Q880372,way
 "Britzinger Straße",wikidata,,Q86524355,way
 Brombeerweg,wikidata,,Q19842373,way
 Brombergstraße,wikidata,,Q31560393,way
+Bruggastraße,wikidata,,Q992293,way
 Brühlstraße,wikidata,,Q60982338,way
 Buchenstraße,wikidata,,Q25403,way
 "Bugginger Straße",wikidata,,Q518965,way
@@ -77,6 +85,7 @@ Drei-Ähren-Straße,wikidata,,Q3539923,way
 Dreisamstraße,wikidata,,Q515480,way
 "Ebneter Straße",wikidata,,Q1279951,way
 "Ebringer Weg",wikidata,,Q527868,way
+Egertenstraße,wikidata,,Q1296750,way
 "Eichstetter Straße",wikidata,,Q606787,way
 Einsiedelnweg,wikidata,,Q693087,way
 "Elsässer Straße",wikidata,,Q1142,way
@@ -117,16 +126,19 @@ Günterstalstraße,wikidata,,Q1561278,way
 Güterhallenstraße,wikidata,,Q1680993,way
 Habichtweg,wikidata,,Q25353,way
 Habsburgerstraße,wikidata,,Q65968,way
+Hagenmattenstraße,wikidata,,Q1568229,way
 Häherweg,wikidata,,Q25565,way
 Hasenweg,wikidata,,Q63941258,way
 "Haslacher Straße",wikidata,,Q880415,way
 "Hausener Weg",wikidata,,Q62008,way
+Heglache,wikidata,,Q1568229;Q152841,way
 Hegner-Schwestern-Weg,wikidata,,Q680618,way
 Helligestraße,wikidata,,Q1602851,way
 Heuweilerstraße,wikidata,,Q519795,way
 "Hochdorfer Straße",wikidata,,Q885057,way
 Hochfirststraße,wikidata,,Q897231,way
 Hochmeisterstraße,wikidata,,Q9373006,way
+Högestraße,wikidata,,Q1568229,way
 Hohenzollernstraße,wikidata,,Q83969,way
 Höllentalstraße,wikidata,,Q301685,way
 "Holzhauser Straße",wikidata,,Q557757,way
@@ -134,13 +146,18 @@ Höllentalstraße,wikidata,,Q301685,way
 Hornbühlstraße,wikidata,,Q31562131,way
 "Hügelheimer Weg",wikidata,,Q43363641,way
 "Hugstetter Straße",wikidata,,Q557757,way
+Hurstbrunnenstraße,wikidata,,Q1727914,way
 "Im Falkenhof",wikidata,,Q26490,way
 "Im Mohnacker",wikidata,,Q146391,way
 "Im Rehwinkel",wikidata,,Q122069,way
+"Im Schulerdobel",wikidata,,Q2042028,way
+Immenberg,wikidata,,Q7391,way
+"In den Eschmatten",wikidata,,Q328960,way
 "Innsbrucker Straße",wikidata,,Q1735,way
 Isfahanallee,wikidata,,Q42053,way
 "Jechtinger Straße",wikidata,,Q107642711,way
 Johanneskirchplatz,wikidata,,Q2319056,relation+way
+Junkermattenweg,wikidata,,Q17101989,way
 Käferweg,wikidata,,Q22671,way
 Kaiserstuhlstraße,wikidata,,Q701516,way
 Kandelblickstraße,wikidata,,Q314746,way
@@ -172,9 +189,11 @@ Kybfelsenstraße,wikidata,,Q31535420,way
 "Lahrer Straße",wikidata,,Q7039,way
 Landsknechtstraße,wikidata,,Q156733,way
 Langemarckstraße,wikidata,,Q726498,way
+"Langen Wangen",wikidata,,Q99195046,way
 "Laufener Straße",wikidata,,Q1807397,way
 "Lehener Straße",wikidata,,Q1813051,way
 Leinenweberstraße,wikidata,,Q1815315,way
+Leisackerweg,wikidata,,Q160342,way
 Lembergallee,wikidata,,Q36036,way
 Lerchenstraße,wikidata,,Q29858,way
 Lettenweg,wikidata,,Q2523928,way
@@ -209,6 +228,7 @@ Nelkenweg,wikidata,,Q156099,way
 "Neuer Messplatz",wikidata,,Q1278354,way
 Neuntöterweg,wikidata,,Q26671,way
 Nordstraße,wikidata,,Q659,way
+"Obere Hardtstraße",wikidata,,Q1585152,way
 "Obere Schneeburgstraße",wikidata,,Q880182,way
 "Oberer Rieselfeldgraben",wikidata,,Q880427,way
 "Oberrieder Straße",wikidata,,Q557698,way
@@ -239,12 +259,14 @@ Rieselfeldallee,wikidata,,Q880427,way
 "Rimsinger Weg",wikidata,,Q2153283,way
 Rivanerweg,wikidata,,Q681670,way
 Röderstraße,wikidata,,Q2161398,way
+Rohrgraben,wikidata,,Q28557,way
 Römerstraße,wikidata,,Q1747689,way
 Rosenstraße,wikidata,,Q34687,way
 Rosenweg,wikidata,,Q34687,way
 Rotdornweg,wikidata,,Q1281102,way
 "Rufacher Straße",wikidata,,Q149087,way
 Ruländerallee,wikidata,,Q778601,way
+Runzstraße,wikidata,,Q2176465,way
 Sachsenstraße,wikidata,,Q101985,way
 Salamanderweg,wikidata,,Q348838,way
 "Salzburger Weg",wikidata,,Q34713,way
@@ -357,7 +379,6 @@ Altgasse,,,,way
 "Am Hägle",,,,way
 "Am Hagmättle",,,,way
 "Am Hängemättle",,,,way
-"Am Hertweg",,,,way
 "Am Högebrunnen",,,,way
 "Am Hohberg",,,,way
 "Am Hörchersberg",,,,way
@@ -367,7 +388,6 @@ Altgasse,,,,way
 "Am Kirchacker",,,,way
 "Am Kreuzsteinacker",,,,way
 "Am Lindacker",,,,way
-"Am Lusbühl",,,,way
 "Am Märzengraben",,,,way
 "Am Mättlegraben",,,,way
 "Am Mettweg",,,,way
@@ -379,7 +399,6 @@ Altgasse,,,,way
 "Am Radacker",,,,way
 "Am Retzgraben",,,,way
 "Am Ringgässle",,,,way
-"Am Rotschachen",,,,way
 "Am Rüstlinberg",,,,way
 "Am Sägplatz",,,,way
 "Am Schelmengraben",,,,way
@@ -398,10 +417,8 @@ Annengässle,,,,way
 "Arlesheimer Straße",,,,way
 "Arlesheimer Waldweg",,,,way
 "Auf der Bleiche",,,,way
-"Auf der Hardt",,,,way
 "Auf der Kinzig",,,,way
 "Auf der Linge",,,,way
-"Auf der Zinnen",,,,way
 Aufdingerweg,,,,way
 Augustinerweg,,,,way
 Aumattenweg,,,,way
@@ -441,14 +458,12 @@ Bifänge,,,,way
 Binzengrün,,,,way
 Birnbaumweg,,,,way
 Blankenbergweg,,,,way
-Blankreutestraße,,,,way
 "Blaue Raute",,,,way
 Bleichestraße,,,,way
 Blindenleitstreifen,,,,way
 Blindgasse,,,,way
 Blochackerweg,,,,way
 Blumenstraße,,,,way
-Bodenlei,,,,way
 Bodlesau,,,,way
 Bohnenwinkelweg,,,,way
 Bohrerweg,,,,way
@@ -471,7 +486,6 @@ Brombergfelsenweg,,,,way
 Brombergweg,,,,way
 Bruderhausweg,,,,way
 Bruggasteg,,,,way
-Bruggastraße,,,,way
 Brunnensteg,,,,way
 Brunnenstraße,,,,way
 Brünnleweg,,,,way
@@ -521,7 +535,6 @@ Dreispitzweg,,,,way
 Dürleberg,,,,way
 Dürrstückrichtstatt,,,,way
 "Ebneter Wegle",,,,way
-Egertenstraße,,,,way
 Eichbergstraße,,,,way
 Eichbergweg,,,,way
 Eichbuckweg,,,,way
@@ -619,7 +632,6 @@ Gutleutstraße,,,,way
 Haberlehen,,,,way
 Häge,,,,way
 Hagelstauden,,,,way
-Hagenmattenstraße,,,,way
 Haierweg,,,,way
 Hallerweg,,,,way
 Hämmerlegässle,,,,way
@@ -636,7 +648,6 @@ Häusleacker,,,,way
 Hauszugang,,,,way
 Hebsackstraße,,,,way
 Hebsackweg,,,,way
-Heglache,,,,way
 Heibrainweg,,,,way
 Heidenhofstraße,,,,way
 Heiliggeiststraße,,,,way
@@ -663,7 +674,6 @@ Hochrüttestraße,,,,way
 Hofackerstraße,,,,way
 Hofgasse,,,,way
 Hofmattstraße,,,,way
-Högestraße,,,,way
 Höheweg,,,,way
 Hohlenstraße,,,,way
 Holzmarkt,,,,way
@@ -675,7 +685,6 @@ Hubbelfuchs,,,,way
 Hugstmattweg,,,,way
 Humbergweg,,,,way
 Hundsrückenweg,,,,way
-Hurstbrunnenstraße,,,,way
 Hurstweg,,,,way
 Husarenwegle,,,,way
 Hüttweg,,,,way
@@ -712,7 +721,6 @@ Illenbergweg,,,,way
 "Im Rosenhag",,,,way
 "Im Sauergarten",,,,way
 "Im Schlupf",,,,way
-"Im Schulerdobel",,,,way
 "Im Steinwender",,,,way
 "Im Vogelsang",,,,way
 "Im Waldhof",,,,way
@@ -722,10 +730,8 @@ Illenbergweg,,,,way
 "Im Wolfgarten",,,,way
 "Im Wolfswinkel",,,,way
 "Im Zinklern",,,,way
-Immenberg,,,,way
 Immentalstraße,,,,way
 "In den Brechtern",,,,way
-"In den Eschmatten",,,,way
 "In den Gässlewiesen",,,,way
 "In den Kirchenmatten",,,,way
 "In den Kreuzäckern",,,,way
@@ -743,7 +749,6 @@ Johannisbergstraße,,,,way
 Johannisbergweg,,,,way
 Johanniterstraße,,,,way
 Junghofweg,,,,way
-Junkermattenweg,,,,way
 Kaiserbrücke,,,,way
 Kalkackerweg,,,,way
 Kammertalstraße,,,,way
@@ -803,7 +808,6 @@ Lairnenweg,,,,way
 Laisackerweg,,,,way
 Langackerweg,,,,way
 Langbuckweg,,,,way
-"Langen Wangen",,,,way
 Langenbachweg,,,,way
 Längenhardstraße,,,,way
 Längenloh,,,,way
@@ -812,6 +816,7 @@ Längenloh,,,,way
 Langgasse,,,,way
 Laubenplatz,,,,relation
 Laubenweg,,,,way
+Lausbühlweg,,,,way
 Lederleplatz,,,,way
 "Lehener Brücke",,,,way
 "Lehener Grenzweg",,,,way
@@ -820,7 +825,6 @@ Lehhaldenweg,,,,way
 Lehlebodenweg,,,,way
 Leimeweg,,,,way
 Leinhaldenweg,,,,way
-Leisackerweg,,,,way
 Liebühl,,,,way
 Lilienweg,,,,way
 Lindenmattenstraße,,,,way
@@ -892,7 +896,6 @@ Nonnenmattenweg,,,,way
 Nußmannstraße,,,,way
 Oberau,,,,way
 "Obere Entengasse",,,,way
-"Obere Hardtstraße",,,,way
 "Obere Lachen",,,,way
 "Obere Steige",,,,way
 "Oberer Abfuhrweg",,,,way
@@ -959,7 +962,6 @@ Ringweg,,,,way
 Rinnenbachweg,,,,way
 Rislerstraße,,,,way
 Rodelbahn,,,,way
-Rohrgraben,,,,way
 "Roller Downhill Strecke",,,,way
 Rollstuhlrampe,,,,way
 Romanstraße,,,,way
@@ -982,7 +984,6 @@ Rotlaubstraße,,,,way
 Ruhbankweg,,,,way
 "Ruhinger Weg",,,,way
 Runzmattenweg,,,,way
-Runzstraße,,,,way
 Rüttidobelweg,,,,way
 Sägbühlweg,,,,way
 Sägemännleweg,,,,way
@@ -1147,6 +1148,7 @@ Vormoosweg,,,,way
 Wachtfelsenweg,,,,way
 Waisenhausgässle,,,,way
 Waldallee,,,,way
+"Waldfahrstraße Wasserschlößle-Kyburg",,,,way
 Waldhofstraße,,,,way
 Waldmösleweg,,,,way
 Waldseestraße,,,,way

@@ -62,6 +62,7 @@ Mathilde-Otto-Platz,wikidata,F,Q1908710,way
 Mathildenstraße,wikidata,F,Q97124,way
 Nelly-Sachs-Straße,wikidata,F,Q57074,way
 Paula-Modersohn-Platz,wikidata,F,Q234370,way
+Philomene-Steiger-Weg,wikidata,F,Q4712501,way
 Rahel-Varnhagen-Straße,wikidata,F,Q61793,way
 Ricarda-Huch-Straße,wikidata,F,Q60785,way
 Rosa-Luxemburg-Straße,wikidata,F,Q7231,way
@@ -109,6 +110,7 @@ Carl-Kistner-Straße,wikidata,M,Q112600462,way
 Carl-Maria-von-Weber-Straße,wikidata,M,Q154812,way
 Carl-Mez-Straße,wikidata,M,Q1039765,way
 Carl-von-Ossietzky-Straße,wikidata,M,Q76358,way
+Christoph-Mang-Straße,wikidata,M,Q114101493,way
 Christophstraße,wikidata,M,Q66602,way
 Conrad-Gröber-Straße,wikidata,M,Q74284,way
 Damaschkestraße,wikidata,M,Q89439,way
@@ -238,6 +240,7 @@ Lortzingstraße,wikidata,M,Q154203,way
 Ludwig-Frank-Weg,wikidata,M,Q90291,way
 Ludwigstraße,wikidata,M,Q57791,way
 Lugostraße,wikidata,M,Q1336473,way
+Mallingerstraße,wikidata,M,Q114101611,way
 Markgrafenstraße,wikidata,M,Q70589,way
 Markusplatz,wikidata,M,Q31966,way
 Marschallstraße,wikidata,M,Q363302,way
@@ -269,6 +272,7 @@ Peter-Sprung-Straße,wikidata,M,Q94859787,way
 Peter-Thumb-Straße,wikidata,M,Q86158,way
 Prinz-Eugen-Straße,wikidata,M,Q152428,way
 Raiffeisenstraße,wikidata,M,Q45141,way
+Rehlingstraße,wikidata,M,Q113489615,way
 Reichsgrafenstraße,wikidata,M,Q1405073,way
 Reinhold-Schneider-Straße,wikidata,M,Q77876,way
 Reischstraße,wikidata,M,Q72192,way
@@ -352,14 +356,12 @@ Elisabeth-von-zur-Mühlen-Platz,config,F,,way
 Els-Schmidin-Weg,config,F,,way
 Magdalena-Gerber-Straße,config,F,,way
 Maria-Salome-Buchmüller-Straße,config,F,,way
-Philomene-Steiger-Weg,config,F,,way
 Rosastraße,config,F,,way
 Schwester-Adolfa-Weg,config,F,,way
 St.-Agatha-Weg,config,F,,way
 Adolf-Keller-Weg,config,M,,way
 Bauhöferstraße,config,M,,way
 Caspar-Schrenk-Weg,config,M,,way
-Christoph-Mang-Straße,config,M,,way
 Dannemannstraße,config,M,,way
 Ekkebertstraße,config,M,,way
 Ferrandstraße,config,M,,way
@@ -380,12 +382,10 @@ Johann-Fraider-Weg,config,M,,way
 Karl-Hausch-Weg,config,M,,way
 Kunzenhof,config,M,,way
 Kunzenweg,config,M,,way
-Mallingerstraße,config,M,,way
 Mathias-Blank-Straße,config,M,,way
 Melanchthonweg,config,M,,way
 Otto-Dangelmaier-Platz,config,M,,way
 Otto-Molz-Straße,config,M,,way
-Rehlingstraße,config,M,,way
 Robert-Ruh-Weg,config,M,,way
 Seitzstraße,config,M,,way
 Walter-Knoell-Straße,config,M,,way
