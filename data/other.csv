@@ -494,7 +494,6 @@ Buckweg,,,,way
 Büggenreuterstraße,,,,way
 Burgackerweg,,,,way
 Bürgerwehrstraße,,,,way
-Burghaldenring,,,,way
 Burgmatt,,,,way
 Burgweg,,,,way
 Bursengang,,,,way
@@ -659,6 +658,7 @@ Herrenstraße,,,,way
 Hessenweier,,,,way
 Heuweg,,,,way
 Hexentrail,,,,way
+Hexenwegle,,,,way
 Hieberainle,,,,way
 "Hinter den Gärten",,,,way
 "Hintere Steige",,,,way
@@ -802,7 +802,6 @@ Kronenstraße,,,,way
 Krummholzenweg,,,,way
 Kuenzersteige,,,,way
 Kuhlagerweg,,,,way
-Kurt-Sauer-Weg,,,,way
 "Kurze Straße",,,,way
 Kybfelsensteig,,,,way
 Kybfelsenweg,,,,way
@@ -991,6 +990,7 @@ Rüttidobelweg,,,,way
 Sägbühlweg,,,,way
 Sägemännleweg,,,,way
 Sailendobelweg,,,,way
+Salzbüchsletreppe,,,,way
 Salzstraße,,,,way
 Sandfangbrücke,,,,way
 "Sankt Nikolauser Straße",,,,way
@@ -1091,6 +1091,7 @@ Sternwaldstraße,,,,way
 Stockmattenweg,,,,way
 Stollenweg,,,,way
 Storchenpassage,,,,way
+"Streck Transportges. mbH",,,,relation
 Stubenhalde,,,,way
 Stübeweg,,,,way
 Studentenweg,,,,way
@@ -1150,12 +1151,13 @@ Vormoosweg,,,,way
 Wachtfelsenweg,,,,way
 Waisenhausgässle,,,,way
 Waldallee,,,,way
-"Waldfahrstraße Wasserschlößle-Kyburg",,,,way
+"Waldfahrstraße Deichelweiher - St. Valentin",,,,way
+"Waldfahrstraße Hirzberg-Jägerhäusle",,,,way
+"Waldfahrstraße Hirzberg-St. Ottilien",,,,way
 Waldhofstraße,,,,way
 Waldmösleweg,,,,way
 Waldseestraße,,,,way
 Waldstraße,,,,way
-"Waldstraße Hirzberg-Jägerhäusle",,,,way
 "Waldstraße Hirzberg-St. Ottilien",,,,way
 Waldweg,,,,way
 Wallstraße,,,,way
@@ -1202,7 +1204,6 @@ Wurstgrundweg,,,,way
 Zähringeracker,,,,way
 "Zartener Straße",,,,way
 Zehntsteinweg,,,,way
-"Zentraler Omnibusbahnhof Freiburg",,,,relation
 Ziegelhofstraße,,,,way
 Ziegelmattenstraße,,,,way
 Ziegelweg,,,,way
