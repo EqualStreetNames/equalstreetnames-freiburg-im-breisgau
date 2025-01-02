@@ -124,6 +124,7 @@ Egonstraße,wikidata,M,Q1298024,way
 Eichendorffweg,wikidata,M,Q77204,way
 Eichrodtstraße,wikidata,M,Q96692,way
 Einsteinstraße,wikidata,M,Q937,way
+"Elsässer Straße",wikidata,M,Q1142;Q60150;Q62069032;Q8810,way
 Emil-Gött-Straße,wikidata,M,Q1336153,way
 Engelbergerstraße,wikidata,M,Q16006167,way
 Engesserstraße,wikidata,M,Q1458975,way
@@ -169,6 +170,7 @@ Gorch-Fock-Straße,wikidata,M,Q69087,way
 Greiffeneggring,wikidata,M,Q1436696,way
 Grillparzerstraße,wikidata,M,Q154438,way
 Gruberhof,wikidata,M,Q100965,way
+Guerickestraße,wikidata,M,Q60095,way
 Gutenbergstraße,wikidata,M,Q8958,way
 Hallerstraße,wikidata,M,Q1666436,way
 Händelstraße,wikidata,M,Q7302,way
@@ -220,6 +222,7 @@ Killianstraße,wikidata,M,Q40513,way
 Kirnerstraße,wikidata,M,Q1692556,way
 Kleiststraße,wikidata,M,Q28494,way
 Kolpingstraße,wikidata,M,Q60619,way
+Konrad-Adenauer-Platz,wikidata,M,Q2492,relation+way
 Konrad-Goldmann-Straße,wikidata,M,Q23071647,way
 Konradin-Kreutzer-Straße,wikidata,M,Q458732,way
 Konradstraße,wikidata,M,Q650499,way
@@ -238,6 +241,7 @@ Lessingstraße,wikidata,M,Q34628,way
 Lichtenbergstraße,wikidata,M,Q1782123,way
 Liebigstraße,wikidata,M,Q16571,way
 Linnéstraße,wikidata,M,Q1043,way
+Lorettostraße,wikidata,M,Q1870290;Q62406,way
 Lortzingstraße,wikidata,M,Q154203,way
 Ludwig-Frank-Weg,wikidata,M,Q90291,way
 Ludwigstraße,wikidata,M,Q57791,way
@@ -245,6 +249,7 @@ Lugostraße,wikidata,M,Q1336473,way
 Mallingerstraße,wikidata,M,Q114101611,way
 Markgrafenstraße,wikidata,M,Q70589,way
 Markusplatz,wikidata,M,Q31966,way
+Markwaldstraße,wikidata,M,Q76520,way
 Marschallstraße,wikidata,M,Q363302,way
 Martinsgässle,wikidata,M,Q133704,way
 Matthias-Erzberger-Straße,wikidata,M,Q57755,way
@@ -261,6 +266,7 @@ Mercystraße,wikidata,M,Q644425,way
 Merianstraße,wikidata,M,Q2087048,way
 Mitscherlichstraße,wikidata,M,Q73148,way
 Moltkestraße,wikidata,M,Q44205,way
+Mooswaldallee,wikidata,M,Q62069032;Q71031,way
 Mozartstraße,wikidata,M,Q254,way
 Neugartstraße,wikidata,M,Q102285,way
 Okenstraße,wikidata,M,Q55069834,way
@@ -311,7 +317,7 @@ Speckbacherweg,wikidata,M,Q87429,way
 Spemannplatz,wikidata,M,Q57568,way
 St.-Martins-Gasse,config+wikidata,M,Q133704,way
 St.-Stephan-Straße,wikidata,M,Q161775,way
-Staudingerstraße,config+wikidata,M,Q48956,way
+Staudingerstraße,wikidata,M,Q48956,way
 Stefan-Meier-Straße,wikidata,M,Q97927,way
 Steyrerstraße,wikidata,M,Q2086891,way
 Struveweg,wikidata,M,Q213794,way
@@ -326,9 +332,8 @@ Vaubanallee,wikidata,M,Q192839,way
 Vinzenz-Zahn-Straße,config+wikidata,M,Q55901817,way
 Wackerstraße,wikidata,M,Q1513194,way
 Walter-Benjamin-Straße,wikidata,M,Q61078,way
-Walter-Flex-Straße,wikidata,M,Q73525,way
 Walter-Gropius-Straße,config+wikidata,M,Q61071,way
-Weddigenstraße,wikidata,M,Q62406,way
+Weddigenstraße,wikidata,M,Q1870290;Q62406,way
 Weismannstraße,wikidata,M,Q76465;Q463105,way
 Welckerstraße,wikidata,M,Q64180,way
 Wentzingerstraße,wikidata,M,Q106952,way

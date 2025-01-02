@@ -34,7 +34,7 @@ Antoniterstraße,wikidata,,Q606474,way
 Augustinergasse,wikidata,,Q1776319,way
 Augustinerplatz,wikidata,,Q1776319,way
 Auwaldhof,wikidata,,Q62069032,way
-Auwaldstraße,wikidata,,Q62069032,way
+Auwaldstraße,wikidata,,Q1142;Q62069032,way
 Badenweilerstraße,wikidata,,Q25430,way
 "Bahlinger Straße",wikidata,,Q518801,way
 "Basler Landstraße",wikidata,,Q78,way
@@ -88,7 +88,6 @@ Dreisamstraße,wikidata,,Q515480,way
 Egertenstraße,wikidata,,Q1296750,way
 "Eichstetter Straße",wikidata,,Q606787,way
 Einsiedelnweg,wikidata,,Q693087,way
-"Elsässer Straße",wikidata,,Q1142,way
 "Emmendinger Straße",wikidata,,Q494521,way
 "Endinger Straße",wikidata,,Q168511,way
 "Ensisheimer Straße",wikidata,,Q455645,way
@@ -200,7 +199,6 @@ Lettenweg,wikidata,,Q2523928,way
 Libellenweg,wikidata,,Q25375,way
 Lindenstraße,wikidata,,Q127849,way
 Littenweilerstraße,wikidata,,Q1865542,way
-Lorettostraße,wikidata,,Q1870290,way
 "Lörracher Straße",wikidata,,Q6855,way
 Lutherkirchstraße,wikidata,,Q62613957,way
 Madisonallee,wikidata,,Q43788,way
@@ -214,7 +212,6 @@ Matthiasweg,wikidata,,Q82296647,way
 "Merdinger Weg",wikidata,,Q142169,way
 "Merzhauser Straße",wikidata,,Q632798,way
 Moosgrund,wikidata,,Q62069032,way
-Mooswaldallee,wikidata,,Q62069032,way
 Mooswaldstraße,wikidata,,Q670176,way
 "Mülhauser Straße",wikidata,,Q79815,way
 "Müllheimer Straße",wikidata,,Q505468,way
@@ -311,7 +308,7 @@ Stühlingerstraße,wikidata,,Q1300474,way
 "Stuttgarter Straße",wikidata,,Q1022,way
 Sudetenstraße,wikidata,,Q194242,way
 "Sulzburger Straße",wikidata,,Q505849,way
-Sundgauallee,wikidata,,Q252268,way
+Sundgauallee,wikidata,,Q252268;Q617,way
 Suwonallee,wikidata,,Q20714,way
 Talstraße,wikidata,,Q1258058,way
 Tel-Aviv-Yafo-Allee,wikidata,,Q33935,way
@@ -667,6 +664,7 @@ Hirschstraße,,,,way
 Hirtenweg,,,,way
 Hirzbergsteg,,,,way
 Hirzbergstraße,,,,way
+"Hochdorfer Apfelweg",,,,way
 Hochrüttestraße,,,,way
 Hofackerstraße,,,,way
 Hofgasse,,,,way
@@ -781,12 +779,12 @@ Kleierstraße,,,,way
 "Klein Grün",,,,way
 "Kleine Roos",,,,way
 "Kleiner Sauterweg",,,,way
+Kleineschholzweg,,,,way
 Kleintalstraße,,,,way
 Klosterstraße,,,,way
 Kohlplatzweg,,,,way
 Kohlwaldweg,,,,way
 Komturplatz,,,,way
-Konrad-Adenauer-Platz,,,,relation
 Kopfgässle,,,,way
 Krautgärten,,,,way
 Kreuzkopfrundweg,,,,way
@@ -848,7 +846,6 @@ Mariensteg,,,,way
 Marienstraße,,,,way
 Marktgasse,,,,way
 Markthalle,,,,way
-Markwaldstraße,,,,way
 Martackertenstraße,,,,way
 Marxenhofweg,,,,way
 Marxenweg,,,,way
@@ -915,6 +912,7 @@ Ochsenbergweg,,,,way
 Ochsengasse,,,,way
 Ottiliensteg,,,,way
 "Otto Steiert Weg",,,,way
+Pergolaplatz,,,,way
 Peterbergstraße,,,,way
 Peterhof,,,,way
 Pfädle,,,,way
@@ -923,6 +921,7 @@ Pflanzschulweg,,,,way
 Pflegerweg,,,,way
 Pflugshaldenweg,,,,way
 Pflugshaldestraße,,,,way
+"Platz der Begegnung",,,,way
 "Platz des Handwerks",,,,way
 Poststraße,,,,way
 Prangenkopfweg,,,,way
@@ -960,7 +959,6 @@ Rinnenbachweg,,,,way
 Rislerstraße,,,,way
 Rodelbahn,,,,way
 "Roller Downhill Strecke",,,,way
-Rollstuhlrampe,,,,way
 Romanstraße,,,,way
 Rosbaumweg,,,,way
 Rosenau,,,,way
@@ -1160,6 +1158,7 @@ Wasenweg,,,,way
 Wasserackerstraße,,,,way
 Wasserstraße,,,,way
 Webersteinweg,,,,way
+Weg,,,,relation
 Weidweg,,,,way
 Weierweg,,,,way
 Weiherhofstraße,,,,way
@@ -1185,6 +1184,7 @@ Windhäuslegasse,,,,way
 Winterhalterkreuzweg,,,,way
 Wippertskirch,,,,way
 Wirtschaftsweg,,,,way
+Wohnmobilstellplatz-Freiburg,,,,relation
 Wolfackerweg,,,,way
 Wolfgartenweg,,,,way
 Wölflinstraße,,,,way
