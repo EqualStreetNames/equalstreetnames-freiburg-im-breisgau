@@ -34,7 +34,7 @@ Antoniterstraße,wikidata,,Q606474,way
 Augustinergasse,wikidata,,Q1776319,way
 Augustinerplatz,wikidata,,Q1776319,way
 Auwaldhof,wikidata,,Q62069032,way
-Auwaldstraße,wikidata,,Q1142;Q62069032,way
+Auwaldstraße,wikidata,,Q62069032,way
 Badenweilerstraße,wikidata,,Q25430,way
 "Bahlinger Straße",wikidata,,Q518801,way
 "Basler Landstraße",wikidata,,Q78,way
@@ -88,6 +88,7 @@ Dreisamstraße,wikidata,,Q515480,way
 Egertenstraße,wikidata,,Q1296750,way
 "Eichstetter Straße",wikidata,,Q606787,way
 Einsiedelnweg,wikidata,,Q693087,way
+"Elsässer Straße",wikidata,,Q1142,way
 "Emmendinger Straße",wikidata,,Q494521,way
 "Endinger Straße",wikidata,,Q168511,way
 "Ensisheimer Straße",wikidata,,Q455645,way
@@ -199,6 +200,7 @@ Lettenweg,wikidata,,Q2523928,way
 Libellenweg,wikidata,,Q25375,way
 Lindenstraße,wikidata,,Q127849,way
 Littenweilerstraße,wikidata,,Q1865542,way
+Lorettostraße,wikidata,,,way
 "Lörracher Straße",wikidata,,Q6855,way
 Lutherkirchstraße,wikidata,,Q62613957,way
 Madisonallee,wikidata,,Q43788,way
@@ -212,6 +214,7 @@ Matthiasweg,wikidata,,Q82296647,way
 "Merdinger Weg",wikidata,,Q142169,way
 "Merzhauser Straße",wikidata,,Q632798,way
 Moosgrund,wikidata,,Q62069032,way
+Mooswaldallee,wikidata,,Q62069032,way
 Mooswaldstraße,wikidata,,Q670176,way
 "Mülhauser Straße",wikidata,,Q79815,way
 "Müllheimer Straße",wikidata,,Q505468,way
@@ -308,7 +311,7 @@ Stühlingerstraße,wikidata,,Q1300474,way
 "Stuttgarter Straße",wikidata,,Q1022,way
 Sudetenstraße,wikidata,,Q194242,way
 "Sulzburger Straße",wikidata,,Q505849,way
-Sundgauallee,wikidata,,Q252268;Q617,way
+Sundgauallee,wikidata,,Q252268,way
 Suwonallee,wikidata,,Q20714,way
 Talstraße,wikidata,,Q1258058,way
 Tel-Aviv-Yafo-Allee,wikidata,,Q33935,way
@@ -502,7 +505,6 @@ Butzenwaldweg,,,,way
 Carl-Engler-Weg,,,,way
 Carl-Mez-Weg,,,,way
 Christhahlenweg,,,,way
-Claire-Keidel-Platz,,,,way
 Colombischlössle,,,,relation
 Dachslochweg,,,,way
 Dammweg,,,,way
@@ -846,6 +848,7 @@ Mariensteg,,,,way
 Marienstraße,,,,way
 Marktgasse,,,,way
 Markthalle,,,,way
+Markwaldstraße,,,,way
 Martackertenstraße,,,,way
 Marxenhofweg,,,,way
 Marxenweg,,,,way
@@ -969,6 +972,7 @@ Rosskopfweg,,,,way
 Rosskopfwegle,,,,way
 Roßhaldeweg,,,,way
 Rotackerstraße,,,,way
+Rotackerweg,,,,way
 Rötebuckweg,,,,way
 "Roter Otto",,,,way
 Rotermelweg,,,,way
