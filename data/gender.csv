@@ -190,7 +190,7 @@ Heinrich-Heine-Straße,wikidata,M,Q44403,way
 Heinrich-Mann-Straße,wikidata,M,Q76480,way
 Heinrich-Rombach-Platz,wikidata,M,Q94763640,way
 Heinrich-Rosenberg-Platz,wikidata,M,Q111584928,way
-Heinrich-von-Stephan-Straße,wikidata,M,Q215482,way
+Heinrich-von-Stephan-Straße,wikidata,M,Q215482;Q78,way
 Hermann-Herder-Straße,wikidata,M,Q1121637,way
 Hermann-Löns-Straße,wikidata,M,Q77486,way
 Hermann-Mitsch-Straße,wikidata,M,Q113441735,way
@@ -241,6 +241,7 @@ Lessingstraße,wikidata,M,Q34628,way
 Lichtenbergstraße,wikidata,M,Q1782123,way
 Liebigstraße,wikidata,M,Q16571,way
 Linnéstraße,wikidata,M,Q1043,way
+Lorettostraße,wikidata,M,Q1870290;Q62406,way
 Lortzingstraße,wikidata,M,Q154203,way
 Ludwig-Frank-Weg,wikidata,M,Q90291,way
 Ludwigstraße,wikidata,M,Q57791,way
@@ -330,7 +331,7 @@ Vinzenz-Zahn-Straße,config+wikidata,M,Q55901817,way
 Wackerstraße,wikidata,M,Q1513194,way
 Walter-Benjamin-Straße,wikidata,M,Q61078,way
 Walter-Gropius-Straße,config+wikidata,M,Q61071,way
-Weddigenstraße,wikidata,M,Q62406,way
+Weddigenstraße,wikidata,M,Q1870290;Q62406,way
 Weismannstraße,wikidata,M,Q76465;Q463105,way
 Welckerstraße,wikidata,M,Q64180,way
 Wentzingerstraße,wikidata,M,Q106952,way
