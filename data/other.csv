@@ -19,7 +19,6 @@ Almendweg,wikidata,,Q2259176,way
 "Am Lindenwäldle",wikidata,,Q127849,way
 "Am Lusbühl",wikidata,,Q15833060;Q54050,way
 "Am Rotschachen",wikidata,,Q15844171,way
-"Am Schloss",wikidata,,Q2240738,way
 "Am Schlossberg",wikidata,,Q277106,way
 "Am Schwarzen Kloster",wikidata,,Q15852266,way
 Ameisenweg,wikidata,,Q7386,way
@@ -557,7 +556,6 @@ Eselbackenweg,,,,way
 Eselsbackenweg,,,,way
 Ettenbachweg,,,,way
 Etzmattenstraße,,,,way
-Extrol,,,,relation
 Fabrikstraße,,,,way
 Falkenbergerstraße,,,,way
 Falkensteinstraße,,,,way
@@ -582,7 +580,6 @@ Franzosenweg,,,,way
 Freiaustraße,,,,way
 "Freiburger Landstraße",,,,way
 "Freiburger Straße",,,,way
-"Freiburger Verkehrs AG Betriebshof West",,,,relation
 "Freiburger Weg",,,,way
 Friedrichsbaupassage,,,,way
 Fritz-Sütterlin-Steg,,,,way
@@ -640,7 +637,6 @@ Hartkirchweg,,,,way
 Hauptstraße,,,,way
 Häusleacker,,,,way
 Häusledobelweg,,,,way
-Hauszugang,,,,way
 Hebsackstraße,,,,way
 Hebsackweg,,,,way
 Heibrainweg,,,,way
@@ -690,6 +686,7 @@ Idingerstraße,,,,way
 Illenbergweg,,,,way
 "Im Auweg",,,,way
 "Im Becken",,,,way
+"Im Christ",,,,way
 "Im Eichelgarten",,,,way
 "Im Eichenbrunnen",,,,way
 "Im Entengarten",,,,way
