@@ -200,6 +200,7 @@ Lettenweg,wikidata,-,Q2523928,way
 Libellenweg,wikidata,-,Q25375,way
 Lindenstraße,wikidata,-,Q127849,way
 Littenweilerstraße,wikidata,-,Q1865542,way
+Lorettostraße,wikidata,-,Q1870290,way
 "Lörracher Straße",wikidata,-,Q6855,way
 Lutherkirchstraße,wikidata,-,Q62613957,way
 Madisonallee,wikidata,-,Q43788,way
@@ -355,9 +356,6 @@ Zechenweg,wikidata,-,Q4232315,way
 Zeisigweg,wikidata,-,Q5261336,way
 Zikadenweg,wikidata,-,Q202890,way
 "Zur March",wikidata,-,Q557757,way
-Heinrich-von-Stephan-Straße,wikidata,?,Q215482;Q78,way
-Lorettostraße,wikidata,?,Q1870290;Q62406,way
-Weddigenstraße,wikidata,?,Q1870290;Q62406,way
 Adelheid-Steinmann-Straße,wikidata,F,Q354727,way
 Alice-Salomon-Straße,wikidata,F,Q106209,way
 Amalie-Gramm-Weg,wikidata,F,Q124351734,way
@@ -547,6 +545,7 @@ Heinrich-Heine-Straße,wikidata,M,Q44403,way
 Heinrich-Mann-Straße,wikidata,M,Q76480,way
 Heinrich-Rombach-Platz,wikidata,M,Q94763640,way
 Heinrich-Rosenberg-Platz,wikidata,M,Q111584928,way
+Heinrich-von-Stephan-Straße,wikidata,M,Q215482,way
 Hermann-Herder-Straße,wikidata,M,Q1121637,way
 Hermann-Löns-Straße,wikidata,M,Q77486,way
 Hermann-Mitsch-Straße,wikidata,M,Q113441735,way
@@ -571,6 +570,7 @@ Josef-Schweizer-Straße,wikidata,M,Q9177284,way
 Kaiser-Joseph-Straße,wikidata,M,Q76555,way
 Kampffmeyerstraße,wikidata,M,Q1416132,way
 Karl-Berner-Straße,wikidata,M,Q94864154,way
+Karl-Hausch-Weg,config+wikidata,M,Q136714318,way
 Karl-Walterspiel-Weg,wikidata,M,Q94830856,way
 Karlsplatz,wikidata,M,Q84201,way
 Karlstraße,wikidata,M,Q57799,way
@@ -616,6 +616,7 @@ Maxim-Gorkij-Straße,wikidata,M,Q12706,way
 Maximilian-Kolbe-Weg,wikidata,M,Q153850,way
 Maximilianstraße,wikidata,M,Q150726,way
 Meckelhof,wikidata,M,Q1036760,way
+Melanchthonweg,wikidata,M,Q76325,way
 Mercystraße,wikidata,M,Q644425,way
 Merianstraße,wikidata,M,Q2087048,way
 Mitscherlichstraße,wikidata,M,Q73148,way
@@ -686,6 +687,7 @@ Vinzenz-Zahn-Straße,config+wikidata,M,Q55901817,way
 Wackerstraße,wikidata,M,Q1513194,way
 Walter-Benjamin-Straße,wikidata,M,Q61078,way
 Walter-Gropius-Straße,config+wikidata,M,Q61071,way
+Weddigenstraße,wikidata,M,Q62406,way
 Weismannstraße,wikidata,M,Q76465;Q463105,way
 Welckerstraße,wikidata,M,Q64180,way
 Wentzingerstraße,wikidata,M,Q106952,way
@@ -698,6 +700,7 @@ Wilhelmstraße,wikidata,M,Q150652,way
 Willy-Brandt-Allee,wikidata,M,Q2514,way
 Windausstraße,wikidata,M,Q77142,way
 Wintererstraße,wikidata,M,Q2041017,way
+Wippertstraße,wikidata,M,Q136698493,way
 Wirthstraße,wikidata,M,Q60150,way
 Wöhlerstraße,wikidata,M,Q58575,way
 Wolfgang-Hoffmann-Platz,wikidata,M,Q2590015,way
@@ -738,11 +741,9 @@ Hermann-Ehret-Weg,config,M,,way
 Hornusstraße,config,M,,way
 Imberyweg,config,M,,way
 Johann-Fraider-Weg,config,M,,way
-Karl-Hausch-Weg,config,M,,way
 Kunzenhof,config,M,,way
 Kunzenweg,config,M,,way
 Mathias-Blank-Straße,config,M,,way
-Melanchthonweg,config,M,,way
 Otto-Dangelmaier-Platz,config,M,,way
 Otto-Molz-Straße,config,M,,way
 Robert-Ruh-Weg,config,M,,way
@@ -751,5 +752,4 @@ Walter-Knoell-Straße,config,M,,way
 Wannerstraße,config,M,,way
 Wihlerweg,config,M,,way
 Wildtalstraße,config,M,,way
-Wippertstraße,config,M,,way
 Zenlinweg,config,M,,way
