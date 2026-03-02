@@ -372,7 +372,7 @@ Clara-Immerwahr-Straße,wikidata,F,Q7490,way
 Cornelia-Schlosser-Allee,wikidata,F,Q95740,way
 Edith-Stein-Straße,wikidata,F,Q76749,way
 Eggstraße,wikidata,F,Q94761222,way
-Elisabeth-Geissler-Ruckmich-Straße,wikidata,F,Q113458346,way
+Elisabeth-Geissler-Ruckmich-Straße,wikidata,F,Q113458346,relation+way
 Elisabeth-Selbert-Straße,wikidata,F,Q75976,way
 Elisabeth-Walter-Straße,wikidata,F,Q106956,way
 Ellen-Gottlieb-Straße,wikidata,F,Q113458040,way
@@ -490,7 +490,7 @@ Erbprinzenstraße,wikidata,M,Q57414,way
 Ernst-Zermelo-Straße,wikidata,M,Q57248,way
 Erwinstraße,wikidata,M,Q68243,way
 Erzherzogstraße,wikidata,M,Q84201,way
-Eugen-Martin-Straße,config+wikidata,M,Q98035,way
+Eugen-Martin-Straße,wikidata,M,Q98035,way
 Fahnenbergplatz,wikidata,M,Q1446751,way
 Faulerstraße,wikidata,M,Q1288281,way
 Fehrenbachallee,wikidata,M,Q77156,way
